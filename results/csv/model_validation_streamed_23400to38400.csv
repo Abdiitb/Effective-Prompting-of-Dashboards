@@ -1,0 +1,1137 @@
+image_index,question,true_answer,model_answer
+0,How many different coloured dotlines are there ?,2,2
+0,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+0,What is the employment to population ratio(male) in 1998 ?,48.0,49.29000000000001
+0,"Across all years, what is the maximum employment to population ratio(male) ?",53.9000015258789,49.20000000000001
+0,"Across all years, what is the minimum employment to population ratio(female) ?",43.4000015258789,37.10000000000001
+0,In which year was the employment to population ratio(female) maximum?,2000,1997
+0,In which year was the employment to population ratio(male) minimum?,1997,1997
+0,What is the total employment to population ratio(female) in the graph ?,181.9999999999999,173.04000000000001
+0,What is the difference between the employment to population ratio(male) in 1998 and that in 1999 ?,-1.700000762939502,-1.000000000000001
+0,What is the difference between the employment to population ratio(female) in 1999 and the employment to population ratio(male) in 2000?,-10.5,-1.099999999999999
+0,What is the average employment to population ratio(male) per year?,49.55000019073488,49.19999999999999
+0,"In the year 1997, what is the difference between the employment to population ratio(female) and employment to population ratio(male) ?",-1.299999237060603,-1.099999999999999
+0,"In how many years, is the employment to population ratio(male) greater than 26 %?",4,4
+0,What is the ratio of the employment to population ratio(male) in 1999 to that in 2000?,0.9220779101291331,0.999999999999999
+0,Is the employment to population ratio(male) in 1997 less than that in 1999 ?,Yes,No
+0,Is the difference between the employment to population ratio(male) in 1999 and 2000 greater than the difference between the employment to population ratio(female) in 1999 and 2000 ?,Yes,No
+0,What is the difference between the highest and the second highest employment to population ratio(female) ?,3.700000762939503,1.000000000000001
+0,What is the difference between the highest and the lowest employment to population ratio(female) ?,5.599998474121101,1.0000000000000001
+0,"In how many years, is the employment to population ratio(female) greater than the average employment to population ratio(female) taken over all years ?",1,2
+0,Is the sum of the employment to population ratio(male) in 1997 and 1998 greater than the maximum employment to population ratio(female) across all years ?,Yes,No
+0,Does the employment to population ratio(female) monotonically increase over the years ?,No,No
+0,Is the employment to population ratio(male) strictly greater than the employment to population ratio(female) over the years ?,Yes,No
+0,Is the employment to population ratio(female) strictly less than the employment to population ratio(male) over the years ?,Yes,No
+0,How many dotlines are there ?,2,2
+0,How many years are there in the graph ?,4,4
+0,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+0,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+0,Does the graph contain any zero values ?,No,No
+0,Does the graph contain grids ?,Yes,Yes
+0,Where does the legend appear in the graph ?,bottom right,Top right
+0,How many legend labels are there ?,2,2
+0,How are the legend labels stacked ?,vertical,Vertical
+0,What is the title of the graph ?,Employment to population ratio of Zimbabwe for age group between 15-24 years,Employment to population ratio of Zimbabwe for age group between 15-24 years
+0,"Does ""Largest city"" appear as one of the legend labels in the graph ?",No,No
+0,What is the label or title of the X-axis ?,Year,Year
+0,What is the label or title of the Y-axis ?,Employment to population ratio(%),Employment to population ratio(%)
+1,How many different coloured dotlines are there ?,2,2
+1,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+1,What is the ppp conversion factor for gdp in 2002 ?,0.90497,0.999999999999999
+1,"Across all years, what is the maximum ppp conversion factor for gdp ?",0.939618,0.899999999999999
+1,"Across all years, what is the minimum ppp conversion factor for private consumption ?",0.9142509999999999,0.999999999999999
+1,In which year was the ppp conversion factor for gdp maximum?,2004,2000
+1,In which year was the ppp conversion factor for private consumption minimum?,2002,2000
+1,What is the total ppp conversion factor for gdp in the graph ?,5.561079,1.999999999999999
+1,What is the difference between the ppp conversion factor for gdp in 2003 and that in 2005 ?,0.013148000000000002,0.00000000000000001
+1,What is the difference between the ppp conversion factor for private consumption in 2003 and the ppp conversion factor for gdp in 2005?,0.033551,0.0000000000000001
+1,What is the average ppp conversion factor for private consumption per year?,0.938619333333333,0.9999999999999995
+1,"In the year 2003, what is the difference between the ppp conversion factor for private consumption and ppp conversion factor for gdp ?",0.020402999999999002,0.0000000000000001
+1,"In how many years, is the ppp conversion factor for gdp greater than 0.32 LCU?",6,5
+1,What is the ratio of the ppp conversion factor for private consumption in 2003 to that in 2004?,1.004197778325821,0.999999999999999
+1,Is the ppp conversion factor for gdp in 2002 less than that in 2003 ?,Yes,No
+1,Is the difference between the ppp conversion factor for private consumption in 2000 and 2004 greater than the difference between the ppp conversion factor for gdp in 2000 and 2004 ?,No,No
+1,What is the difference between the highest and the second highest ppp conversion factor for gdp ?,0.001009999999999,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+1,What is the difference between the highest and the lowest ppp conversion factor for gdp ?,0.034647999999999006,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+1,"In how many years, is the ppp conversion factor for gdp greater than the average ppp conversion factor for gdp taken over all years ?",3,2
+1,Is the sum of the ppp conversion factor for gdp in 2000 and 2001 greater than the maximum ppp conversion factor for private consumption across all years ?,Yes,Yes
+1,Does the ppp conversion factor for gdp monotonically increase over the years ?,No,No
+1,Is the ppp conversion factor for gdp strictly greater than the ppp conversion factor for private consumption over the years ?,No,No
+1,Is the ppp conversion factor for gdp strictly less than the ppp conversion factor for private consumption over the years ?,Yes,No
+1,How many dotlines are there ?,2,2
+1,How many years are there in the graph ?,6,5
+1,What is the difference between two consecutive major ticks on the Y-axis ?,0.2,0.25000000000000001
+1,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+1,Does the graph contain any zero values ?,No,No
+1,Does the graph contain grids ?,Yes,Yes
+1,Where does the legend appear in the graph ?,center right,Top right
+1,How many legend labels are there ?,2,2
+1,How are the legend labels stacked ?,vertical,Vertical
+1,What is the title of the graph ?,PPP conversion factor for GDP and private consumption in France,PPP conversion factor for GDP and private consumption in France
+1,"Does ""Services"" appear as one of the legend labels in the graph ?",No,No
+1,What is the label or title of the X-axis ?,Year,Year
+1,What is the label or title of the Y-axis ?,PPP conversion factor (LCU per international $),PPP conversion factor (LCU per international$)
+2,How many different coloured dotlines are there ?,2,2
+2,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+2,What is the merchandise exports in 1973 ?,3.72398341639097,3.000000000000001
+2,"Across all years, what is the maximum merchandise exports ?",4.07937917454924,3.300000000000001
+2,"Across all years, what is the minimum merchandise exports ?",2.9993411786087503,1.900000000000001
+2,In which year was the merchandise imports maximum?,1977,1977
+2,In which year was the merchandise imports minimum?,1974,1977
+2,What is the total merchandise exports in the graph ?,18.06983269142797,13.040000000000001
+2,What is the difference between the merchandise imports in 1973 and that in 1975 ?,-0.19118040260582903,-0.0000000000000001
+2,What is the difference between the merchandise exports in 1975 and the merchandise imports in 1973?,2.53099097211912,1.999999999999999
+2,What is the average merchandise exports per year?,3.613966538285594,2.0400000000000001
+2,"In the year 1976, what is the difference between the merchandise exports and merchandise imports ?",1.731194206941339,-1.000000000000001
+2,"In how many years, is the merchandise exports greater than 0.4 %?",5,5
+2,What is the ratio of the merchandise imports in 1973 to that in 1975?,0.8900989578379521,0.9000000000000001
+2,Is the merchandise exports in 1975 less than that in 1977 ?,No,No
+2,Is the difference between the merchandise imports in 1973 and 1977 greater than the difference between the merchandise exports in 1973 and 1977 ?,No,No
+2,What is the difference between the highest and the second highest merchandise imports ?,0.720583297241679,0.00000000000000001
+2,What is the difference between the highest and the lowest merchandise imports ?,1.02178785625313,0.0000000000000001
+2,"In how many years, is the merchandise exports greater than the average merchandise exports taken over all years ?",3,2
+2,Is the sum of the merchandise exports in 1974 and 1976 greater than the maximum merchandise imports across all years ?,Yes,No
+2,Does the merchandise exports monotonically increase over the years ?,No,No
+2,Is the merchandise exports strictly greater than the merchandise imports over the years ?,Yes,No
+2,Is the merchandise exports strictly less than the merchandise imports over the years ?,No,No
+2,How many dotlines are there ?,2,2
+2,How many years are there in the graph ?,5,5
+2,What is the difference between two consecutive major ticks on the Y-axis ?,1.0,1.0
+2,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+2,Does the graph contain any zero values ?,No,No
+2,Does the graph contain grids ?,No,No
+2,Where does the legend appear in the graph ?,bottom right,Bottom right
+2,How many legend labels are there ?,2,2
+2,How are the legend labels stacked ?,vertical,Vertical
+2,What is the title of the graph ?,Trade statistics of Switzerland with developing economies in Latin America,Trade statistics of Switzerland with developing economies in Latin America
+2,"Does ""Goods"" appear as one of the legend labels in the graph ?",No,No
+2,What is the label or title of the X-axis ?,Year,Year
+2,What is the label or title of the Y-axis ?,Trade with economies of Latin America & Caribbean(%),Trade with economies of Latin America
+3,How many different coloured dotlines are there ?,2,2
+3,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+3,What is the number of primary teachers in 1983 ?,2736,100
+3,"Across all years, what is the maximum number of secondary teachers ?",7881,2000
+3,"Across all years, what is the minimum number of secondary teachers ?",2623,100
+3,In which year was the number of secondary teachers maximum?,1989,1989
+3,In which year was the number of secondary teachers minimum?,1983,1983
+3,What is the total number of secondary teachers in the graph ?,25596,10000
+3,What is the difference between the number of secondary teachers in 1983 and that in 1989 ?,-5258,1000
+3,What is the difference between the number of primary teachers in 1985 and the number of secondary teachers in 1987?,-274,3900
+3,What is the average number of secondary teachers per year?,3656.5714285714284,2000.0
+3,"In the year 1985, what is the difference between the number of secondary teachers and number of primary teachers ?",35,1000
+3,"In how many years, is the number of primary teachers greater than 3200 ?",0,0
+3,What is the ratio of the number of secondary teachers in 1983 to that in 1984?,0.956601021152443,0.999999999999999
+3,Is the number of primary teachers in 1987 less than that in 1989 ?,No,No
+3,Is the difference between the number of primary teachers in 1983 and 1986 greater than the difference between the number of secondary teachers in 1983 and 1986 ?,Yes,No
+3,What is the difference between the highest and the second highest number of secondary teachers ?,4715,1000
+3,What is the difference between the highest and the lowest number of secondary teachers ?,5258,2000
+3,"In how many years, is the number of primary teachers greater than the average number of primary teachers taken over all years ?",5,2
+3,Is the sum of the number of primary teachers in 1983 and 1988 greater than the maximum number of secondary teachers across all years ?,No,No
+3,Does the number of primary teachers monotonically increase over the years ?,No,No
+3,Is the number of primary teachers strictly greater than the number of secondary teachers over the years ?,No,No
+3,Is the number of secondary teachers strictly less than the number of primary teachers over the years ?,No,No
+3,How many dotlines are there ?,2,2
+3,How many years are there in the graph ?,7,7
+3,What is the difference between two consecutive major ticks on the Y-axis ?,2000.0,2000.0
+3,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+3,Does the graph contain any zero values ?,No,No
+3,Does the graph contain grids ?,No,No
+3,Where does the legend appear in the graph ?,center right,Center right
+3,How many legend labels are there ?,2,2
+3,How are the legend labels stacked ?,vertical,Vertical
+3,What is the title of the graph ?,Number of teachers providing primary vs secondary education in Bahrain,Number of teachers providing primary vs secondary education in Bahrain
+3,"Does ""2012 US$"" appear as one of the legend labels in the graph ?",No,No
+3,What is the label or title of the X-axis ?,Year,Year
+3,What is the label or title of the Y-axis ?,Number of teachers,Number of teachers
+4,How many different coloured dotlines are there ?,2,2
+4,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+4,What is the merchandise exports in 2013 ?,1.30837652626346,1.100000000000001
+4,"Across all years, what is the maximum merchandise exports ?",1.61959358816779,1.300000000000001
+4,"Across all years, what is the minimum merchandise exports ?",0.8800218116910301,1.000000000000001
+4,In which year was the merchandise exports maximum?,2010,2011
+4,In which year was the merchandise imports minimum?,2013,2011
+4,What is the total merchandise imports in the graph ?,5.70269250143506,1.0400000000000001
+4,What is the difference between the merchandise exports in 2012 and that in 2013 ?,-0.428354714572429,0.0000000000000001
+4,What is the difference between the merchandise exports in 2010 and the merchandise imports in 2012?,0.28290922951682,0.0999999999999999
+4,What is the average merchandise imports per year?,1.4256731253587651,1.049999999999999
+4,"In the year 2013, what is the difference between the merchandise exports and merchandise imports ?",0.07450148349169901,0.0000000000000001
+4,"In how many years, is the merchandise imports greater than 0.5 %?",4,4
+4,What is the ratio of the merchandise imports in 2012 to that in 2013?,1.0833223076206,0.9000000000000001
+4,Is the merchandise imports in 2011 less than that in 2013 ?,No,No
+4,Is the difference between the merchandise imports in 2010 and 2013 greater than the difference between the merchandise exports in 2010 and 2013 ?,No,No
+4,What is the difference between the highest and the second highest merchandise imports ?,0.35318637172218903,0.0000000000000001
+4,What is the difference between the highest and the lowest merchandise exports ?,0.7395717764767591,0.0000000000000001
+4,"In how many years, is the merchandise imports greater than the average merchandise imports taken over all years ?",1,1
+4,Is the sum of the merchandise exports in 2011 and 2012 greater than the maximum merchandise imports across all years ?,Yes,No
+4,Does the merchandise exports monotonically increase over the years ?,No,No
+4,Is the merchandise exports strictly greater than the merchandise imports over the years ?,No,No
+4,Is the merchandise imports strictly less than the merchandise exports over the years ?,No,No
+4,How many dotlines are there ?,2,2
+4,How many years are there in the graph ?,4,4
+4,What is the difference between two consecutive major ticks on the Y-axis ?,0.5,0.0
+4,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+4,Does the graph contain any zero values ?,No,No
+4,Does the graph contain grids ?,Yes,Yes
+4,Where does the legend appear in the graph ?,bottom right,Bottom right
+4,How many legend labels are there ?,2,2
+4,How are the legend labels stacked ?,vertical,Vertical
+4,What is the title of the graph ?,Trade statistics of Bahrain with developing economies in North Africa,Trade statistics of Bahrain with developing economies in North Africa
+4,"Does ""Arms exports"" appear as one of the legend labels in the graph ?",No,No
+4,What is the label or title of the X-axis ?,Year,Year
+4,What is the label or title of the Y-axis ?,Trade with economies of Middle East & North Africa(%),Trade with economies of Middle East & North Africa(%)
+5,How many different coloured dotlines are there ?,2,2
+5,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+5,What is the savings of government in 2002 ?,13.7930123800352,19.00000000000001
+5,"Across all years, what is the maximum savings of government ?",18.6030714201358,19.00000000000001
+5,"Across all years, what is the minimum investments of government ?",17.5602398409448,11.00000000000001
+5,In which year was the investments of government maximum?,2001,2000
+5,In which year was the savings of government minimum?,2004,2000
+5,What is the total investments of government in the graph ?,113.26425555191312,60.00000000000001
+5,What is the difference between the investments of government in 2003 and that in 2004 ?,2.072284826046701,1.0000000000000001
+5,What is the difference between the investments of government in 2002 and the savings of government in 2005?,2.971241272309498,1.099999999999999
+5,What is the average investments of government per year?,18.877375925318855,17.10000000000001
+5,"In the year 2003, what is the difference between the savings of government and investments of government ?",-4.893016849726202,1.099999999999999
+5,"In how many years, is the investments of government greater than 17 %?",6,6
+5,What is the ratio of the savings of government in 2003 to that in 2004?,1.144145206545413,1.000000000000001
+5,Is the investments of government in 2000 less than that in 2004 ?,No,No
+5,Is the difference between the investments of government in 2003 and 2004 greater than the difference between the savings of government in 2003 and 2004 ?,Yes,No
+5,What is the difference between the highest and the second highest investments of government ?,0.7949391018408001,1.0000000000000001
+5,What is the difference between the highest and the lowest savings of government ?,5.540671722882701,1.099999999999999
+5,"In how many years, is the savings of government greater than the average savings of government taken over all years ?",2,2
+5,Is the sum of the investments of government in 2000 and 2003 greater than the maximum savings of government across all years ?,Yes,Yes
+5,Does the investments of government monotonically increase over the years ?,No,No
+5,Is the savings of government strictly greater than the investments of government over the years ?,No,No
+5,Is the savings of government strictly less than the investments of government over the years ?,No,No
+5,How many dotlines are there ?,2,2
+5,How many years are there in the graph ?,6,6
+5,What is the difference between two consecutive major ticks on the Y-axis ?,5.0,5.0
+5,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+5,Does the graph contain any zero values ?,No,No
+5,Does the graph contain grids ?,No,No
+5,Where does the legend appear in the graph ?,bottom right,Bottom right
+5,How many legend labels are there ?,2,2
+5,How are the legend labels stacked ?,horizontal,Horizontal
+5,What is the title of the graph ?,Investments and savings done by the government of Fragile and conflict affected situations,Investments and savings done by the government of Fragile and conflict affected situations
+5,"Does ""Depositors"" appear as one of the legend labels in the graph ?",No,No
+5,What is the label or title of the X-axis ?,Year,Year
+5,What is the label or title of the Y-axis ?,% of GDP,% of GDP
+6,How many different coloured dotlines are there ?,0,2
+6,Is the number of dotlines equal to the number of legend labels ?,No,No
+6,What is the resource balance in constant us$ in 2008 ?,0,0
+6,"Across all years, what is the minimum resource balance in constant us$ ?",0,0
+6,What is the total resource balance in constant us$ in the graph ?,0,0
+6,What is the difference between the resource balance in us$ in 2007 and the resource balance in constant us$ in 2008?,0,0
+6,What is the average resource balance in constant us$ per year?,0.0,0
+6,"In how many years, is the resource balance in constant us$ greater than 300000000 units?",0,0
+6,"In how many years, is the resource balance in us$ greater than the average resource balance in us$ taken over all years ?",0,0
+6,Does the resource balance in us$ monotonically increase over the years ?,No,No
+6,Is the resource balance in constant us$ strictly greater than the resource balance in us$ over the years ?,No,No
+6,Is the resource balance in us$ strictly less than the resource balance in constant us$ over the years ?,No,No
+6,How many dotlines are there ?,0,2
+6,How many years are there in the graph ?,4,4
+6,What is the difference between two consecutive major ticks on the Y-axis ?,500000000.0,200000000.0
+6,Are the values on the major ticks of Y-axis written in scientific E-notation ?,Yes,No
+6,Does the graph contain any zero values ?,Yes,No
+6,Does the graph contain grids ?,Yes,Yes
+6,Where does the legend appear in the graph ?,bottom center,Bottom left
+6,How many legend labels are there ?,2,2
+6,How are the legend labels stacked ?,horizontal,Vertical
+6,What is the title of the graph ?,Total resource balance of Haiti in different curriences,Total resource balance of Haiti in different curriences
+6,"Does ""Chemicals"" appear as one of the legend labels in the graph ?",No,No
+6,What is the label or title of the X-axis ?,Year,Year
+6,What is the label or title of the Y-axis ?,Balance,Balance
+7,How many different coloured dotlines are there ?,2,2
+7,Is the number of dotlines equal to the number of legend labels ?,No,Yes
+7,What is the resource balance in constant us$ in 1982 ?,0,0
+7,"Across all years, what is the maximum resource balance in us$ ?",876044821.9691732,2000000000
+7,"Across all years, what is the minimum resource balance in constant us$ ?",0,0
+7,In which year was the resource balance in us$ maximum?,1986,1986
+7,What is the total resource balance in us$ in the graph ?,1159062261.9838712,25000000000
+7,What is the difference between the resource balance in constant us$ in 1983 and the resource balance in us$ in 1984?,0,2000000000
+7,What is the average resource balance in us$ per year?,165580323.14055303,0.0
+7,"In the year 1986, what is the difference between the resource balance in us$ and resource balance in constant us$ ?",-22162955178.030827,0
+7,"In how many years, is the resource balance in us$ greater than 13000000000 units?",0,0
+7,What is the difference between the highest and the lowest resource balance in us$ ?,876044821.9691732,1000000000
+7,"In how many years, is the resource balance in us$ greater than the average resource balance in us$ taken over all years ?",2,1
+7,Does the resource balance in us$ monotonically increase over the years ?,No,No
+7,Is the resource balance in constant us$ strictly greater than the resource balance in us$ over the years ?,No,No
+7,Is the resource balance in us$ strictly less than the resource balance in constant us$ over the years ?,No,No
+7,How many dotlines are there ?,2,2
+7,How many years are there in the graph ?,7,7
+7,What is the difference between two consecutive major ticks on the Y-axis ?,5000000000.0,5000000000.0
+7,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+7,Does the graph contain any zero values ?,Yes,No
+7,Does the graph contain grids ?,No,No
+7,Where does the legend appear in the graph ?,bottom right,Center right.
+7,How many legend labels are there ?,2,2
+7,How are the legend labels stacked ?,vertical,Vertical
+7,What is the title of the graph ?,Total resource balance of Thailand in different curriences,Total resource balance of Thailand in different currencies
+7,"Does ""Total Population"" appear as one of the legend labels in the graph ?",No,No
+7,What is the label or title of the X-axis ?,Year,Year
+7,What is the label or title of the Y-axis ?,Balance,Balance
+8,How many different coloured dotlines are there ?,2,2
+8,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+8,What is the persistence rate of female students in 2004 ?,67.0336074829102,57.09099999999999
+8,"Across all years, what is the maximum persistence rate of female students ?",67.4051971435547,60.0999999999999
+8,"Across all years, what is the minimum persistence rate of female students ?",62.5118408203125,57.0999999999999
+8,In which year was the persistence rate of male students maximum?,2003,2004
+8,In which year was the persistence rate of female students minimum?,1999,1999
+8,What is the total persistence rate of male students in the graph ?,307.5588607788085,260.00000000000001
+8,What is the difference between the persistence rate of male students in 2002 and that in 2003 ?,-6.2900581359863,0.0000000000000001
+8,What is the difference between the persistence rate of female students in 2003 and the persistence rate of male students in 2004?,7.662380218505895,1.099999999999999
+8,What is the average persistence rate of female students per year?,65.12918167114258,57.04000000000001
+8,"In the year 2004, what is the difference between the persistence rate of female students and persistence rate of male students ?",9.737636566162202,1.09999999999999
+8,"In how many years, is the persistence rate of male students greater than 60 %?",2,4
+8,What is the ratio of the persistence rate of male students in 2003 to that in 2007?,1.170771798651285,0.9900000000000001
+8,Is the persistence rate of female students in 1999 less than that in 2007 ?,Yes,Yes
+8,Is the difference between the persistence rate of female students in 2004 and 2007 greater than the difference between the persistence rate of male students in 2004 and 2007 ?,Yes,No
+8,What is the difference between the highest and the second highest persistence rate of female students ?,0.37158966064450205,1.0000000000000001
+8,What is the difference between the highest and the lowest persistence rate of female students ?,4.893356323242202,1.09999999999999
+8,"In how many years, is the persistence rate of female students greater than the average persistence rate of female students taken over all years ?",2,2
+8,Is the sum of the persistence rate of female students in 1999 and 2002 greater than the maximum persistence rate of male students across all years ?,Yes,Yes
+8,Does the persistence rate of female students monotonically increase over the years ?,No,No
+8,Is the persistence rate of male students strictly greater than the persistence rate of female students over the years ?,No,No
+8,Is the persistence rate of male students strictly less than the persistence rate of female students over the years ?,No,No
+8,How many dotlines are there ?,2,2
+8,How many years are there in the graph ?,5,5
+8,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+8,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+8,Does the graph contain any zero values ?,No,No
+8,Does the graph contain grids ?,No,No
+8,Where does the legend appear in the graph ?,bottom right,Top right
+8,How many legend labels are there ?,2,2
+8,How are the legend labels stacked ?,vertical,Vertical
+8,What is the title of the graph ?,Percentage of children in Nepal enrolled in first grade who reached the last grade of primary education,Percentage of children in Nepal enrolled in first grade who reached the last grade of primary education
+8,"Does ""By country of asylum"" appear as one of the legend labels in the graph ?",No,No
+8,What is the label or title of the X-axis ?,Year,Year
+8,What is the label or title of the Y-axis ?,Persistence rate to the last grade of primary education (%),Persistence rate to the last grade of primary education (%)
+9,How many different coloured dotlines are there ?,2,2
+9,Is the number of dotlines equal to the number of legend labels ?,No,No
+9,What is the net concessional disbursements from imf in 1981 ?,58000,0
+9,"Across all years, what is the maximum net concessional disbursements from imf ?",58000,0
+9,"Across all years, what is the minimum net concessional disbursements from imf ?",0,0
+9,In which year was the net concessional disbursements from imf maximum?,1981,1981
+9,What is the total net non concessional disbursements from imf in the graph ?,3900000,0
+9,What is the difference between the net non concessional disbursements from imf in 1985 and the net concessional disbursements from imf in 1983?,0,0.0
+9,What is the average net non concessional disbursements from imf per year?,975000.0,0.0
+9,"In the year 1981, what is the difference between the net concessional disbursements from imf and net non concessional disbursements from imf ?",-3842000,-1000000
+9,"In how many years, is the net concessional disbursements from imf greater than 400000 US$?",0,0
+9,What is the difference between the highest and the lowest net non concessional disbursements from imf ?,3900000,0
+9,"In how many years, is the net concessional disbursements from imf greater than the average net concessional disbursements from imf taken over all years ?",1,0
+9,Does the net non concessional disbursements from imf monotonically increase over the years ?,No,No
+9,Is the net non concessional disbursements from imf strictly greater than the net concessional disbursements from imf over the years ?,No,No
+9,Is the net non concessional disbursements from imf strictly less than the net concessional disbursements from imf over the years ?,No,No
+9,How many dotlines are there ?,2,2
+9,How many years are there in the graph ?,4,4
+9,What is the difference between two consecutive major ticks on the Y-axis ?,1000000.0,1000000.0
+9,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+9,Does the graph contain any zero values ?,Yes,No
+9,Does the graph contain grids ?,No,No
+9,Where does the legend appear in the graph ?,bottom right,Bottom right
+9,How many legend labels are there ?,2,2
+9,How are the legend labels stacked ?,vertical,Vertical
+9,What is the title of the graph ?,Net disbursements received by Mauritania from International Monetary Fund,Net disbursements received by Mauritania from International Monetary Fund
+9,"Does ""Non-pregnant women"" appear as one of the legend labels in the graph ?",No,No
+9,What is the label or title of the X-axis ?,Year,Year
+9,What is the label or title of the Y-axis ?,Amount (in current US$),Amount (in current US$)
+10,How many different coloured dotlines are there ?,2,2
+10,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+10,What is the rating of statistical capacity in Botswana in 2004 ?,50,20.0
+10,"Across all years, what is the maximum rating of statistical capacity in Botswana ?",50,27.00000000000001
+10,"Across all years, what is the minimum rating of statistical capacity in Botswana ?",30,20.0
+10,In which year was the rating of statistical capacity in Botswana maximum?,2004,2004
+10,In which year was the rating of statistical capacity in Haiti minimum?,2004,2004
+10,What is the total rating of statistical capacity in Haiti in the graph ?,200,130.0
+10,What is the difference between the rating of statistical capacity in Botswana in 2005 and that in 2011 ?,20,-1.000000000000001
+10,What is the difference between the rating of statistical capacity in Haiti in 2004 and the rating of statistical capacity in Botswana in 2010?,-10,-10.000000000000001
+10,What is the average rating of statistical capacity in Botswana per year?,36.25,27.000000000000001
+10,"In the year 2006, what is the difference between the rating of statistical capacity in Haiti and rating of statistical capacity in Botswana ?",-10,20.0
+10,"In how many years, is the rating of statistical capacity in Haiti greater than 4 ?",8,6
+10,What is the ratio of the rating of statistical capacity in Haiti in 2005 to that in 2008?,0.6666666666666661,0.999999999999999
+10,Is the rating of statistical capacity in Haiti in 2009 less than that in 2011 ?,No,No
+10,Is the difference between the rating of statistical capacity in Haiti in 2009 and 2011 greater than the difference between the rating of statistical capacity in Botswana in 2009 and 2011 ?,No,No
+10,What is the difference between the highest and the second highest rating of statistical capacity in Botswana ?,0,1.0
+10,What is the difference between the highest and the lowest rating of statistical capacity in Botswana ?,20,1.0
+10,"In how many years, is the rating of statistical capacity in Haiti greater than the average rating of statistical capacity in Haiti taken over all years ?",4,3
+10,Is the sum of the rating of statistical capacity in Haiti in 2005 and 2011 greater than the maximum rating of statistical capacity in Botswana across all years ?,No,No
+10,Does the rating of statistical capacity in Haiti monotonically increase over the years ?,No,No
+10,Is the rating of statistical capacity in Haiti strictly greater than the rating of statistical capacity in Botswana over the years ?,No,No
+10,Is the rating of statistical capacity in Haiti strictly less than the rating of statistical capacity in Botswana over the years ?,No,No
+10,How many dotlines are there ?,2,2
+10,How many years are there in the graph ?,8,8
+10,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+10,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+10,Does the graph contain any zero values ?,No,No
+10,Does the graph contain grids ?,No,No
+10,Where does the legend appear in the graph ?,center right,Center right
+10,How many legend labels are there ?,2,2
+10,How are the legend labels stacked ?,vertical,Vertical
+10,What is the title of the graph ?,Methodology assessment of statistical capacity,Methodology assessment of statistical capacity
+10,"Does ""Haiti"" appear as one of the legend labels in the graph ?",Yes,No
+10,What is the label or title of the X-axis ?,Years,Years
+10,What is the label or title of the Y-axis ?,Rating of statistical capacity (0-100),Rating of statistical capacity (0-1000)
+11,How many different coloured dotlines are there ?,1,2
+11,Is the number of dotlines equal to the number of legend labels ?,No,No
+11,What is the amount of loans disbursed in Grenada in 1998 ?,851000,0.0
+11,"Across all years, what is the maximum amount of loans disbursed in Grenada ?",6008000,1000000
+11,"Across all years, what is the minimum amount of loans disbursed in Morocco ?",0,0.0
+11,In which year was the amount of loans disbursed in Grenada maximum?,2002,1998
+11,What is the total amount of loans disbursed in Grenada in the graph ?,8920000,0
+11,What is the difference between the amount of loans disbursed in Grenada in 1998 and that in 1999 ?,-455000,-1000000.0
+11,What is the difference between the amount of loans disbursed in Morocco in 2002 and the amount of loans disbursed in Grenada in 2000?,-714000,0.00000000000000001
+11,What is the average amount of loans disbursed in Morocco per year?,0.0,0.0
+11,"In how many years, is the amount of loans disbursed in Grenada greater than 5000000 US$?",1,0
+11,What is the ratio of the amount of loans disbursed in Grenada in 1998 to that in 2001?,20.75609756097561,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+11,Is the amount of loans disbursed in Grenada in 1999 less than that in 2001 ?,No,No
+11,What is the difference between the highest and the second highest amount of loans disbursed in Grenada ?,4702000,1000000.0
+11,What is the difference between the highest and the lowest amount of loans disbursed in Grenada ?,5967000,1000000.0
+11,"In how many years, is the amount of loans disbursed in Morocco greater than the average amount of loans disbursed in Morocco taken over all years ?",0,0
+11,Is the sum of the amount of loans disbursed in Grenada in 1999 and 2000 greater than the maximum amount of loans disbursed in Morocco across all years ?,Yes,No
+11,Does the amount of loans disbursed in Grenada monotonically increase over the years ?,No,No
+11,Is the amount of loans disbursed in Morocco strictly greater than the amount of loans disbursed in Grenada over the years ?,No,No
+11,Is the amount of loans disbursed in Morocco strictly less than the amount of loans disbursed in Grenada over the years ?,Yes,No
+11,How many dotlines are there ?,1,1
+11,How many years are there in the graph ?,5,5
+11,What is the difference between two consecutive major ticks on the Y-axis ?,1000000.0,1000000.0
+11,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+11,Does the graph contain any zero values ?,Yes,No
+11,Does the graph contain grids ?,Yes,Yes
+11,Where does the legend appear in the graph ?,bottom center,Center right.
+11,How many legend labels are there ?,2,2
+11,How are the legend labels stacked ?,horizontal,Vertical
+11,What is the title of the graph ?,Net disbursements of loans from International Monetary Fund,Net disbursements of loans from International Monetary Fund
+11,"Does ""Djibouti"" appear as one of the legend labels in the graph ?",No,No
+11,What is the label or title of the X-axis ?,Years,Years
+11,What is the label or title of the Y-axis ?,Amount (in current US$),Amount (in current US$)
+12,How many different coloured dotlines are there ?,2,2
+12,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+12,What is the rating of statistical capacity in Azerbaijan in 2015 ?,60,60.0
+12,"Across all years, what is the maximum rating of statistical capacity in Azerbaijan ?",80,80.0
+12,"Across all years, what is the minimum rating of statistical capacity in Azerbaijan ?",60,60.0
+12,In which year was the rating of statistical capacity in Azerbaijan maximum?,2011,2011
+12,In which year was the rating of statistical capacity in Peru minimum?,2011,2011
+12,What is the total rating of statistical capacity in Peru in the graph ?,380,190.0
+12,What is the difference between the rating of statistical capacity in Azerbaijan in 2011 and that in 2012 ?,10,1.0
+12,What is the difference between the rating of statistical capacity in Azerbaijan in 2011 and the rating of statistical capacity in Peru in 2012?,20,60.000000000000001
+12,What is the average rating of statistical capacity in Peru per year?,76.0,80.0
+12,"In the year 2012, what is the difference between the rating of statistical capacity in Peru and rating of statistical capacity in Azerbaijan ?",-10,60.0
+12,"In how many years, is the rating of statistical capacity in Peru greater than 56 ?",5,4
+12,What is the ratio of the rating of statistical capacity in Peru in 2011 to that in 2014?,0.6000000000000001,1.000000000000001
+12,Is the rating of statistical capacity in Peru in 2013 less than that in 2014 ?,Yes,No
+12,Is the difference between the rating of statistical capacity in Peru in 2013 and 2015 greater than the difference between the rating of statistical capacity in Azerbaijan in 2013 and 2015 ?,No,No
+12,What is the difference between the highest and the second highest rating of statistical capacity in Azerbaijan ?,10,0.00000000000000001
+12,What is the difference between the highest and the lowest rating of statistical capacity in Peru ?,40,10.0
+12,"In how many years, is the rating of statistical capacity in Azerbaijan greater than the average rating of statistical capacity in Azerbaijan taken over all years ?",2,2
+12,Is the sum of the rating of statistical capacity in Azerbaijan in 2014 and 2015 greater than the maximum rating of statistical capacity in Peru across all years ?,Yes,Yes
+12,Does the rating of statistical capacity in Azerbaijan monotonically increase over the years ?,No,No
+12,Is the rating of statistical capacity in Azerbaijan strictly greater than the rating of statistical capacity in Peru over the years ?,No,No
+12,Is the rating of statistical capacity in Azerbaijan strictly less than the rating of statistical capacity in Peru over the years ?,No,No
+12,How many dotlines are there ?,2,2
+12,How many years are there in the graph ?,5,5
+12,What is the difference between two consecutive major ticks on the Y-axis ?,20.0,20.0
+12,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+12,Does the graph contain any zero values ?,No,No
+12,Does the graph contain grids ?,No,No
+12,Where does the legend appear in the graph ?,top right,Top right
+12,How many legend labels are there ?,2,2
+12,How are the legend labels stacked ?,vertical,Vertical
+12,What is the title of the graph ?,Source data assessment of statistical capacity,Source data assessment of statistical capacity
+12,"Does ""Guinea-Bissau"" appear as one of the legend labels in the graph ?",No,No
+12,What is the label or title of the X-axis ?,Years,Years
+12,What is the label or title of the Y-axis ?,Rating of statistical capacity (0-100),Rating of statistical capacity (0-100)
+13,How many different coloured dotlines are there ?,2,2
+13,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+13,What is the duration of primary education in 2011 ?,6,6.0
+13,"Across all years, what is the maximum duration of secondary education ?",6,6.0
+13,"Across all years, what is the minimum duration of primary education ?",6,6.0
+13,In which year was the duration of secondary education maximum?,2011,2011
+13,In which year was the duration of secondary education minimum?,2011,2011
+13,What is the total duration of secondary education in the graph ?,24,7
+13,What is the difference between the duration of primary education in 2011 and that in 2013 ?,0,0
+13,What is the difference between the duration of primary education in 2011 and the duration of secondary education in 2013?,0,0
+13,What is the average duration of primary education per year?,6.0,6.0
+13,"In the year 2013, what is the difference between the duration of primary education and duration of secondary education ?",0,0
+13,"In how many years, is the duration of secondary education greater than 5 years?",4,0
+13,What is the ratio of the duration of secondary education in 2013 to that in 2014?,1.0,1.000000000000001
+13,Is the duration of secondary education in 2012 less than that in 2013 ?,No,No
+13,Is the difference between the duration of primary education in 2011 and 2013 greater than the difference between the duration of secondary education in 2011 and 2013 ?,No,No
+13,What is the difference between the highest and the second highest duration of primary education ?,0,0.0
+13,What is the difference between the highest and the lowest duration of primary education ?,0,0
+13,"In how many years, is the duration of primary education greater than the average duration of primary education taken over all years ?",0,1
+13,Is the sum of the duration of primary education in 2013 and 2014 greater than the maximum duration of secondary education across all years ?,Yes,Yes
+13,Does the duration of primary education monotonically increase over the years ?,No,No
+13,Is the duration of primary education strictly greater than the duration of secondary education over the years ?,No,No
+13,Is the duration of primary education strictly less than the duration of secondary education over the years ?,No,Yes
+13,How many dotlines are there ?,2,2
+13,How many years are there in the graph ?,4,4
+13,What is the difference between two consecutive major ticks on the Y-axis ?,1.0,1.0
+13,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+13,Does the graph contain any zero values ?,No,No
+13,Does the graph contain grids ?,No,No
+13,Where does the legend appear in the graph ?,center right,Center right
+13,How many legend labels are there ?,2,2
+13,How are the legend labels stacked ?,vertical,Vertical
+13,What is the title of the graph ?,Theoretical duration of primary and secondary education in Spain,Theoretical duration of primary and secondary education in Spain
+13,"Does ""Lower secondary education"" appear as one of the legend labels in the graph ?",No,No
+13,What is the label or title of the X-axis ?,Year,Year
+13,What is the label or title of the Y-axis ?,Duration(in years),Duration(in years)
+14,How many different coloured dotlines are there ?,2,2
+14,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+14,What is the percentage of females employed in Private sector in Australia in 2010 ?,81.6999969482422,80.0
+14,"Across all years, what is the maximum percentage of females employed in Private sector in Australia ?",83.3000030517578,80.00000000000001
+14,"Across all years, what is the minimum percentage of females employed in Private sector in Maldives ?",39.0,40.0
+14,In which year was the percentage of females employed in Private sector in Australia maximum?,1990,2010
+14,In which year was the percentage of females employed in Private sector in Australia minimum?,1995,1990
+14,What is the total percentage of females employed in Private sector in Maldives in the graph ?,312.0999984741212,35.09999999999999
+14,What is the difference between the percentage of females employed in Private sector in Maldives in 1995 and that in 2000 ?,5.200000762939503,-1.099999999999999
+14,What is the difference between the percentage of females employed in Private sector in Maldives in 2006 and the percentage of females employed in Private sector in Australia in 1995?,-22.9000015258789,-10.099999999999999
+14,What is the average percentage of females employed in Private sector in Australia per year?,81.13333384195964,80.00000000000001
+14,"In the year 2010, what is the difference between the percentage of females employed in Private sector in Australia and percentage of females employed in Private sector in Maldives ?",7.5,-2.999999999999999
+14,"In how many years, is the percentage of females employed in Private sector in Maldives greater than 64 %?",1,6
+14,What is the ratio of the percentage of females employed in Private sector in Australia in 2006 to that in 2010?,0.9975520568456211,0.9900000000000001
+14,Is the percentage of females employed in Private sector in Australia in 1990 less than that in 2010 ?,No,No
+14,Is the difference between the percentage of females employed in Private sector in Australia in 2000 and 2003 greater than the difference between the percentage of females employed in Private sector in Maldives in 2000 and 2003 ?,Yes,No
+14,What is the difference between the highest and the second highest percentage of females employed in Private sector in Maldives ?,18.0999984741211,0.0000000000000001
+14,What is the difference between the highest and the lowest percentage of females employed in Private sector in Australia ?,4.300003051757798,1.0000000000000001
+14,"In how many years, is the percentage of females employed in Private sector in Maldives greater than the average percentage of females employed in Private sector in Maldives taken over all years ?",3,2
+14,Is the sum of the percentage of females employed in Private sector in Maldives in 2000 and 2010 greater than the maximum percentage of females employed in Private sector in Australia across all years ?,Yes,No
+14,Does the percentage of females employed in Private sector in Maldives monotonically increase over the years ?,No,No
+14,Is the percentage of females employed in Private sector in Australia strictly greater than the percentage of females employed in Private sector in Maldives over the years ?,Yes,No
+14,Is the percentage of females employed in Private sector in Maldives strictly less than the percentage of females employed in Private sector in Australia over the years ?,Yes,No
+14,How many dotlines are there ?,2,2
+14,How many years are there in the graph ?,6,6
+14,What is the difference between two consecutive major ticks on the Y-axis ?,20.0,20.0
+14,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+14,Does the graph contain any zero values ?,No,No
+14,Does the graph contain grids ?,Yes,Yes
+14,Where does the legend appear in the graph ?,bottom left,Bottom left
+14,How many legend labels are there ?,2,2
+14,How are the legend labels stacked ?,horizontal,Vertical
+14,What is the title of the graph ?,Percentage of female workers employed in Private sector,Percentage of female workers employed in Private sector
+14,"Does ""Small states"" appear as one of the legend labels in the graph ?",No,No
+14,What is the label or title of the X-axis ?,Years,Years
+14,What is the label or title of the Y-axis ?,Employment (as % of female employment),Employment (as % of female employment)
+15,How many different coloured dotlines are there ?,2,2
+15,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+15,What is the number of male out-of-school students in 2008 ?,4589,1000
+15,"Across all years, what is the maximum number of female out-of-school students ?",5037,4000
+15,"Across all years, what is the minimum number of male out-of-school students ?",1280,100
+15,In which year was the number of male out-of-school students maximum?,2004,2004
+15,In which year was the number of female out-of-school students minimum?,2010,2008
+15,What is the total number of male out-of-school students in the graph ?,26480,10000
+15,What is the difference between the number of male out-of-school students in 2009 and that in 2010 ?,2126,1000
+15,What is the difference between the number of male out-of-school students in 2010 and the number of female out-of-school students in 2006?,-2870,1000
+15,What is the average number of female out-of-school students per year?,3576.4285714285716,3000
+15,"In the year 2007, what is the difference between the number of male out-of-school students and number of female out-of-school students ?",-20,1000
+15,"In how many years, is the number of female out-of-school students greater than 4400 ?",1,2
+15,What is the ratio of the number of male out-of-school students in 2006 to that in 2010?,3.240625,0.9000000000000001
+15,Is the number of female out-of-school students in 2004 less than that in 2010 ?,No,No
+15,Is the difference between the number of male out-of-school students in 2007 and 2010 greater than the difference between the number of female out-of-school students in 2007 and 2010 ?,No,No
+15,What is the difference between the highest and the second highest number of male out-of-school students ?,544,1000
+15,What is the difference between the highest and the lowest number of female out-of-school students ?,4174,1000
+15,"In how many years, is the number of female out-of-school students greater than the average number of female out-of-school students taken over all years ?",5,1
+15,Is the sum of the number of male out-of-school students in 2007 and 2009 greater than the maximum number of female out-of-school students across all years ?,Yes,No
+15,Does the number of male out-of-school students monotonically increase over the years ?,No,No
+15,Is the number of female out-of-school students strictly greater than the number of male out-of-school students over the years ?,No,No
+15,Is the number of male out-of-school students strictly less than the number of female out-of-school students over the years ?,No,No
+15,How many dotlines are there ?,2,2
+15,How many years are there in the graph ?,7,6
+15,What is the difference between two consecutive major ticks on the Y-axis ?,1000.0,1000.0
+15,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+15,Does the graph contain any zero values ?,No,No
+15,Does the graph contain grids ?,Yes,Yes
+15,Where does the legend appear in the graph ?,bottom right,Bottom right
+15,How many legend labels are there ?,2,2
+15,How are the legend labels stacked ?,vertical,Vertical
+15,What is the title of the graph ?,Number of out-of-school children of primary school age of both genders in Macedonia,Number of out-of-school children of primary school age of both genders in Macedonia
+15,"Does ""Urban"" appear as one of the legend labels in the graph ?",No,No
+15,What is the label or title of the X-axis ?,Year,Year
+15,What is the label or title of the Y-axis ?,Number of children,Number of children
+16,How many different coloured dotlines are there ?,2,2
+16,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+16,What is the enrolment ratio of female students in secondary schools in Philippines in 1986 ?,65.16131999999999,64.3999999999999
+16,"Across all years, what is the maximum enrolment ratio of female students in secondary schools in Philippines ?",69.58031,64.09999999999999
+16,"Across all years, what is the minimum enrolment ratio of female students in secondary schools in Philippines ?",65.16131999999999,6.300000000000001
+16,In which year was the enrolment ratio of female students in secondary schools in Philippines maximum?,1985,1986
+16,In which year was the enrolment ratio of female students in secondary schools in Philippines minimum?,1986,1984
+16,What is the total enrolment ratio of female students in secondary schools in Djibouti in the graph ?,40.886179999999996,240.00000000000001
+16,What is the difference between the enrolment ratio of female students in secondary schools in Philippines in 1986 and that in 1988 ?,-1.043850000000006,-0.0000000000000001
+16,What is the difference between the enrolment ratio of female students in secondary schools in Djibouti in 1984 and the enrolment ratio of female students in secondary schools in Philippines in 1987?,-60.44556999999999,-6.999999999999999
+16,What is the average enrolment ratio of female students in secondary schools in Philippines per year?,67.43188599999999,64.06666666666665
+16,"In the year 1986, what is the difference between the enrolment ratio of female students in secondary schools in Philippines and enrolment ratio of female students in secondary schools in Djibouti ?",57.05078999999999,-1.000000000000001
+16,"In how many years, is the enrolment ratio of female students in secondary schools in Djibouti greater than 2 %?",5,4
+16,What is the ratio of the enrolment ratio of female students in secondary schools in Philippines in 1984 to that in 1985?,0.9843965915069931,0.999999999999999
+16,Is the enrolment ratio of female students in secondary schools in Djibouti in 1987 less than that in 1988 ?,No,No
+16,Is the difference between the enrolment ratio of female students in secondary schools in Philippines in 1986 and 1988 greater than the difference between the enrolment ratio of female students in secondary schools in Djibouti in 1986 and 1988 ?,No,No
+16,What is the difference between the highest and the second highest enrolment ratio of female students in secondary schools in Djibouti ?,0.37175,0.00000000000000001
+16,What is the difference between the highest and the lowest enrolment ratio of female students in secondary schools in Philippines ?,4.418990000000008,0.0000000000000001
+16,"In how many years, is the enrolment ratio of female students in secondary schools in Djibouti greater than the average enrolment ratio of female students in secondary schools in Djibouti taken over all years ?",2,2
+16,Is the sum of the enrolment ratio of female students in secondary schools in Philippines in 1984 and 1986 greater than the maximum enrolment ratio of female students in secondary schools in Djibouti across all years ?,Yes,No
+16,Does the enrolment ratio of female students in secondary schools in Djibouti monotonically increase over the years ?,No,No
+16,Is the enrolment ratio of female students in secondary schools in Philippines strictly greater than the enrolment ratio of female students in secondary schools in Djibouti over the years ?,Yes,No
+16,Is the enrolment ratio of female students in secondary schools in Djibouti strictly less than the enrolment ratio of female students in secondary schools in Philippines over the years ?,Yes,No
+16,How many dotlines are there ?,2,2
+16,How many years are there in the graph ?,5,5
+16,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+16,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+16,Does the graph contain any zero values ?,No,No
+16,Does the graph contain grids ?,Yes,Yes
+16,Where does the legend appear in the graph ?,top right,Top right
+16,How many legend labels are there ?,2,2
+16,How are the legend labels stacked ?,vertical,Vertical
+16,What is the title of the graph ?,Enrolment ratio of female students in secondary schools,Enrolment ratio of female students in secondary schools
+16,"Does ""Barbados"" appear as one of the legend labels in the graph ?",No,No
+16,What is the label or title of the X-axis ?,Years,Years
+16,What is the label or title of the Y-axis ?,Gross enrolment ratio (%),Gross enrolment ratio (%)
+17,How many different coloured dotlines are there ?,2,2
+17,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+17,What is the amount spent in travel items in 2007 ?,1153000000,1100000000
+17,"Across all years, what is the maximum amount spent in travel items ?",1353000000,1100000000
+17,"Across all years, what is the minimum amount spent in travel items ?",921000000,1000000000
+17,In which year was the amount spent in travel items maximum?,2011,2011
+17,In which year was the amount spent in travel items minimum?,2005,2005
+17,What is the total amount spent in travel items in the graph ?,7644000000,1400000000
+17,What is the difference between the amount spent in travel items in 2005 and that in 2008 ?,-328000000,-1000000000
+17,What is the difference between the amount spent in travel items in 2005 and the amount spent on passenger transport items in 2009?,830000000,840000000.0
+17,What is the average amount spent in travel items per year?,1092000000.0,1000000000.0
+17,"In the year 2005, what is the difference between the amount spent in travel items and amount spent on passenger transport items ?",867000000,-1000000000
+17,"In how many years, is the amount spent on passenger transport items greater than 1120000000 US$?",0,0
+17,What is the ratio of the amount spent in travel items in 2005 to that in 2006?,0.8872832369942191,0.9707070707070708
+17,Is the amount spent in travel items in 2005 less than that in 2006 ?,Yes,No
+17,Is the difference between the amount spent on passenger transport items in 2009 and 2011 greater than the difference between the amount spent in travel items in 2009 and 2011 ?,Yes,No
+17,What is the difference between the highest and the second highest amount spent in travel items ?,104000000,1000000000.0
+17,What is the difference between the highest and the lowest amount spent in travel items ?,432000000,1000000000
+17,"In how many years, is the amount spent on passenger transport items greater than the average amount spent on passenger transport items taken over all years ?",4,3
+17,Is the sum of the amount spent on passenger transport items in 2007 and 2009 greater than the maximum amount spent in travel items across all years ?,No,No
+17,Does the amount spent in travel items monotonically increase over the years ?,No,No
+17,Is the amount spent in travel items strictly greater than the amount spent on passenger transport items over the years ?,Yes,No
+17,Is the amount spent on passenger transport items strictly less than the amount spent in travel items over the years ?,Yes,No
+17,How many dotlines are there ?,2,2
+17,How many years are there in the graph ?,7,7
+17,What is the difference between two consecutive major ticks on the Y-axis ?,200000000.0,20000000.0
+17,Are the values on the major ticks of Y-axis written in scientific E-notation ?,Yes,No
+17,Does the graph contain any zero values ?,No,No
+17,Does the graph contain grids ?,No,No
+17,Where does the legend appear in the graph ?,bottom right,Bottom right
+17,How many legend labels are there ?,2,4
+17,How are the legend labels stacked ?,vertical,Vertical
+17,What is the title of the graph ?,Amount spent on the transport and travel items of national tourists visited in Lithuania,Amount spent on the transport and travel items of national tourists visited in Lithuania
+17,"Does ""Technicians"" appear as one of the legend labels in the graph ?",No,No
+17,What is the label or title of the X-axis ?,Year,Year
+17,What is the label or title of the Y-axis ?,Amount spent (in US$),Amount spent (in US$)
+18,How many different coloured dotlines are there ?,2,2
+18,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+18,What is the percentage of male labour force in 1999 ?,82.0,67.1
+18,"Across all years, what is the maximum percentage of female labor force ?",66.3000030517578,77.00000000000001
+18,"Across all years, what is the minimum percentage of male labour force ?",80.5,60.6999999999999
+18,In which year was the percentage of female labor force maximum?,1998,1998
+18,In which year was the percentage of female labor force minimum?,2003,1998
+18,What is the total percentage of male labour force in the graph ?,488.6000061035155,320.0
+18,What is the difference between the percentage of male labour force in 1998 and that in 2003 ?,1.800003051757798,0.0
+18,What is the difference between the percentage of male labour force in 2001 and the percentage of female labor force in 1999?,15.800003051757798,1.99999999999999
+18,What is the average percentage of male labour force per year?,81.43333435058592,70.0
+18,"In the year 2002, what is the difference between the percentage of female labor force and percentage of male labour force ?",-17.400001525878906,1.99999999999999
+18,"In how many years, is the percentage of male labour force greater than 60 %?",6,6
+18,What is the ratio of the percentage of female labor force in 2001 to that in 2003?,1.020700625045443,1.000000000000001
+18,Is the percentage of male labour force in 2002 less than that in 2003 ?,No,No
+18,Is the difference between the percentage of male labour force in 1998 and 2000 greater than the difference between the percentage of female labor force in 1998 and 2000 ?,No,No
+18,What is the difference between the highest and the second highest percentage of male labour force ?,0.300003051757798,0.0000000000000001
+18,What is the difference between the highest and the lowest percentage of female labor force ?,3.500003814697301,0.30000000000000002
+18,"In how many years, is the percentage of male labour force greater than the average percentage of male labour force taken over all years ?",3,2
+18,Is the sum of the percentage of male labour force in 2000 and 2001 greater than the maximum percentage of female labor force across all years ?,Yes,No
+18,Does the percentage of female labor force monotonically increase over the years ?,No,No
+18,Is the percentage of female labor force strictly greater than the percentage of male labour force over the years ?,No,No
+18,Is the percentage of female labor force strictly less than the percentage of male labour force over the years ?,Yes,No
+18,How many dotlines are there ?,2,2
+18,How many years are there in the graph ?,6,7
+18,What is the difference between two consecutive major ticks on the Y-axis ?,20.0,20.0
+18,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+18,Does the graph contain any zero values ?,No,No
+18,Does the graph contain grids ?,No,No
+18,Where does the legend appear in the graph ?,bottom right,Bottom right
+18,How many legend labels are there ?,2,2
+18,How are the legend labels stacked ?,vertical,Vertical
+18,What is the title of the graph ?,Proportion of the total labor force ages 15-64 who participated in production in Jamaica,Proportion of the total labor force ages 15-64 who participated in production in Jamaica
+18,"Does ""Non-residents"" appear as one of the legend labels in the graph ?",No,No
+18,What is the label or title of the X-axis ?,Year,Year
+18,What is the label or title of the Y-axis ?,Labor Force (in %),Labor Force (in %)
+19,How many different coloured dotlines are there ?,2,2
+19,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+19,What is the amount of emissions from human activities in 1990 ?,1516375.1,1500000
+19,"Across all years, what is the maximum amount of emissions from human activities ?",1879388.0,1430000
+19,"Across all years, what is the minimum amount of emissions generated from industries ?",297280.1,100000
+19,In which year was the amount of emissions generated from industries maximum?,2008,2008
+19,In which year was the amount of emissions generated from industries minimum?,1990,1990
+19,What is the total amount of emissions generated from industries in the graph ?,1559124.9,14430000
+19,What is the difference between the amount of emissions generated from industries in 1990 and that in 2005 ?,-124463.10000000003,-100000
+19,What is the difference between the amount of emissions from human activities in 1990 and the amount of emissions generated from industries in 2005?,1094631.9000000001,1400000
+19,What is the average amount of emissions generated from industries per year?,389781.225,1000000
+19,"In the year 1990, what is the difference between the amount of emissions from human activities and amount of emissions generated from industries ?",1219095.0,-1000000
+19,"In how many years, is the amount of emissions generated from industries greater than 800000 thousand metric tons?",0,0
+19,What is the ratio of the amount of emissions from human activities in 1990 to that in 2005?,0.8293259253543,0.999999999999999
+19,Is the amount of emissions from human activities in 2000 less than that in 2005 ?,Yes,No
+19,Is the difference between the amount of emissions generated from industries in 2005 and 2008 greater than the difference between the amount of emissions from human activities in 2005 and 2008 ?,Yes,No
+19,What is the difference between the highest and the second highest amount of emissions generated from industries ?,44380.20000000001,100000
+19,What is the difference between the highest and the lowest amount of emissions generated from industries ?,168843.30000000005,100000
+19,"In how many years, is the amount of emissions from human activities greater than the average amount of emissions from human activities taken over all years ?",2,2
+19,Is the sum of the amount of emissions from human activities in 1990 and 2008 greater than the maximum amount of emissions generated from industries across all years ?,Yes,No
+19,Does the amount of emissions generated from industries monotonically increase over the years ?,Yes,No
+19,Is the amount of emissions from human activities strictly greater than the amount of emissions generated from industries over the years ?,Yes,No
+19,Is the amount of emissions generated from industries strictly less than the amount of emissions from human activities over the years ?,Yes,No
+19,How many dotlines are there ?,2,2
+19,How many years are there in the graph ?,4,5
+19,What is the difference between two consecutive major ticks on the Y-axis ?,500000.0,500000.0
+19,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+19,Does the graph contain any zero values ?,No,No
+19,Does the graph contain grids ?,No,No
+19,Where does the legend appear in the graph ?,bottom right,Bottom right
+19,How many legend labels are there ?,2,2
+19,How are the legend labels stacked ?,vertical,Vertical
+19,What is the title of the graph ?,Methane emission due to human activities and industrial production in Lower middle income,Methane emission due to human activities and industrial production in Lower middle income
+19,"Does ""Passenger Transport Items"" appear as one of the legend labels in the graph ?",No,No
+19,What is the label or title of the X-axis ?,Year,Year
+19,What is the label or title of the Y-axis ?,Methane emission (as thousand metric tons of CO2 equivalent),Methane emission (as thousand metric tons of CO2 equivalent)
+20,How many different coloured dotlines are there ?,2,2
+20,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+20,What is the cost of damage caused due to water depletion in Saudi Arabia in 1986 ?,11.1836660814289,10.000000000000001
+20,"Across all years, what is the maximum cost of damage caused due to water depletion in Saudi Arabia ?",16.574221165979,13.09999999999999
+20,"Across all years, what is the minimum cost of damage caused due to water depletion in Middle East & North Africa (all income levels) ?",5.64672448301489,10.09999999999999
+20,In which year was the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) maximum?,1983,1983
+20,In which year was the cost of damage caused due to water depletion in Saudi Arabia minimum?,1986,1989
+20,What is the total cost of damage caused due to water depletion in Saudi Arabia in the graph ?,93.83797636125848,100.00000000000001
+20,What is the difference between the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1983 and that in 1988 ?,5.326860363978899,-1.000000000000001
+20,What is the difference between the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1983 and the cost of damage caused due to water depletion in Saudi Arabia in 1989?,-0.6546990078103001,1.099999999999999
+20,What is the average cost of damage caused due to water depletion in Middle East & North Africa (all income levels) per year?,9.217465473163287,10.066666666666665
+20,"In the year 1988, what is the difference between the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) and cost of damage caused due to water depletion in Saudi Arabia ?",-4.374351575570199,-1.000000000000001
+20,"In how many years, is the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) greater than 4.4 %?",7,4
+20,What is the ratio of the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1986 to that in 1987?,0.7086403476823041,0.9000000000000001
+20,Is the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1985 less than that in 1989 ?,No,No
+20,Is the difference between the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1984 and 1988 greater than the difference between the cost of damage caused due to water depletion in Saudi Arabia in 1984 and 1988 ?,Yes,No
+20,What is the difference between the highest and the second highest cost of damage caused due to water depletion in Middle East & North Africa (all income levels) ?,0.46394025030920005,1.000000000000001
+20,What is the difference between the highest and the lowest cost of damage caused due to water depletion in Saudi Arabia ?,5.390555084550101,1.099999999999999
+20,"In how many years, is the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) greater than the average cost of damage caused due to water depletion in Middle East & North Africa (all income levels) taken over all years ?",3,2
+20,Is the sum of the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) in 1983 and 1989 greater than the maximum cost of damage caused due to water depletion in Saudi Arabia across all years ?,Yes,No
+20,Does the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) monotonically increase over the years ?,No,No
+20,Is the cost of damage caused due to water depletion in Saudi Arabia strictly greater than the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) over the years ?,Yes,No
+20,Is the cost of damage caused due to water depletion in Saudi Arabia strictly less than the cost of damage caused due to water depletion in Middle East & North Africa (all income levels) over the years ?,No,No
+20,How many dotlines are there ?,2,2
+20,How many years are there in the graph ?,7,6
+20,What is the difference between two consecutive major ticks on the Y-axis ?,2.0,2.0
+20,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+20,Does the graph contain any zero values ?,No,No
+20,Does the graph contain grids ?,No,No
+20,Where does the legend appear in the graph ?,bottom right,Bottom right
+20,How many legend labels are there ?,2,2
+20,How are the legend labels stacked ?,vertical,Vertical
+20,What is the title of the graph ?,Cost of damage due to water depletion in different countries,Cost of damage due to water depletion in different countries
+20,"Does ""Belgium"" appear as one of the legend labels in the graph ?",No,No
+20,What is the label or title of the X-axis ?,Years,Years
+20,What is the label or title of the Y-axis ?,Cost (as % of GNI),Cost (as % of GNI)
+21,How many different coloured dotlines are there ?,2,2
+21,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+21,What is the lpi quality of trade in 2012 ?,2.62,2.9000000000000001
+21,"Across all years, what is the maximum lpi of frequency of shipment arrival ?",3.55,3.099999999999999
+21,"Across all years, what is the minimum lpi of frequency of shipment arrival ?",3.177934,2.3000000000000001
+21,In which year was the lpi of frequency of shipment arrival maximum?,2010,2014
+21,In which year was the lpi of frequency of shipment arrival minimum?,2014,2014
+21,What is the total lpi quality of trade in the graph ?,9.857314,11.211111111111111
+21,What is the difference between the lpi of frequency of shipment arrival in 2007 and that in 2010 ?,-0.279999999999999,0.0000000000000001
+21,What is the difference between the lpi quality of trade in 2007 and the lpi of frequency of shipment arrival in 2012?,-1.06,-0.03999999999999999
+21,What is the average lpi of frequency of shipment arrival per year?,3.3544835,3.040000000000001
+21,"In the year 2012, what is the difference between the lpi quality of trade and lpi of frequency of shipment arrival ?",-0.799999999999999,0.0000000000000001
+21,"In how many years, is the lpi of frequency of shipment arrival greater than 2.2 ?",4,4
+21,What is the ratio of the lpi quality of trade in 2012 to that in 2014?,1.049127182244603,0.9704021111111111
+21,Is the lpi quality of trade in 2010 less than that in 2012 ?,Yes,No
+21,Is the difference between the lpi quality of trade in 2010 and 2012 greater than the difference between the lpi of frequency of shipment arrival in 2010 and 2012 ?,No,No
+21,What is the difference between the highest and the second highest lpi quality of trade ?,0.122686,0.00000000000000001
+21,What is the difference between the highest and the lowest lpi of frequency of shipment arrival ?,0.372065999999999,0.0000000000000001
+21,"In how many years, is the lpi quality of trade greater than the average lpi quality of trade taken over all years ?",2,2
+21,Is the sum of the lpi quality of trade in 2007 and 2014 greater than the maximum lpi of frequency of shipment arrival across all years ?,Yes,No
+21,Does the lpi of frequency of shipment arrival monotonically increase over the years ?,No,No
+21,Is the lpi quality of trade strictly greater than the lpi of frequency of shipment arrival over the years ?,No,No
+21,Is the lpi quality of trade strictly less than the lpi of frequency of shipment arrival over the years ?,Yes,No
+21,How many dotlines are there ?,2,2
+21,How many years are there in the graph ?,4,4
+21,What is the difference between two consecutive major ticks on the Y-axis ?,0.5,0.5
+21,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+21,Does the graph contain any zero values ?,No,No
+21,Does the graph contain grids ?,Yes,Yes
+21,Where does the legend appear in the graph ?,bottom right,Bottom right
+21,How many legend labels are there ?,2,2
+21,How are the legend labels stacked ?,horizontal,horizontal
+21,What is the title of the graph ?,Logistics performance index of markets of Ecuador,Logistics performance index of markets of Ecuador
+21,"Does ""Education"" appear as one of the legend labels in the graph ?",No,No
+21,What is the label or title of the X-axis ?,Year,Year
+21,What is the label or title of the Y-axis ?,Rating(1=low to 5=high),Rating(1=low to 5=high)
+22,How many different coloured dotlines are there ?,2,2
+22,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+22,What is the merchandise imports in 1971 ?,4.39681259958795,3.8000000000000001
+22,"Across all years, what is the maximum merchandise exports ?",3.26266465809258,3.900000000000001
+22,"Across all years, what is the minimum merchandise exports ?",2.88966211326943,3.000000000000001
+22,In which year was the merchandise exports maximum?,1969,1967
+22,In which year was the merchandise exports minimum?,1971,1967
+22,What is the total merchandise exports in the graph ?,15.586774089484688,14.09999999999999
+22,What is the difference between the merchandise imports in 1968 and that in 1970 ?,0.46467892526708,0.0000000000000001
+22,What is the difference between the merchandise imports in 1967 and the merchandise exports in 1970?,0.8893568879552001,1.099999999999999
+22,What is the average merchandise exports per year?,3.117354817896937,3.580000000000001
+22,"In the year 1968, what is the difference between the merchandise imports and merchandise exports ?",1.54528086583661,0.0000000000000001
+22,"In how many years, is the merchandise exports greater than 4.4 %?",0,4
+22,What is the ratio of the merchandise exports in 1967 to that in 1970?,0.9988635376116641,0.999999999999999
+22,Is the merchandise exports in 1967 less than that in 1971 ?,No,No
+22,Is the difference between the merchandise imports in 1968 and 1969 greater than the difference between the merchandise exports in 1968 and 1969 ?,Yes,No
+22,What is the difference between the highest and the second highest merchandise imports ?,0.224883053141359,0.00000000000000001
+22,What is the difference between the highest and the lowest merchandise imports ?,0.8216498278123501,0.0000000000000001
+22,"In how many years, is the merchandise imports greater than the average merchandise imports taken over all years ?",2,2
+22,Is the sum of the merchandise exports in 1968 and 1970 greater than the maximum merchandise imports across all years ?,Yes,Yes
+22,Does the merchandise imports monotonically increase over the years ?,No,No
+22,Is the merchandise imports strictly greater than the merchandise exports over the years ?,Yes,No
+22,Is the merchandise exports strictly less than the merchandise imports over the years ?,Yes,No
+22,How many dotlines are there ?,2,2
+22,How many years are there in the graph ?,5,5
+22,What is the difference between two consecutive major ticks on the Y-axis ?,1.0,1.0
+22,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+22,Does the graph contain any zero values ?,No,No
+22,Does the graph contain grids ?,No,No
+22,Where does the legend appear in the graph ?,center right,Center right.
+22,How many legend labels are there ?,2,2
+22,How are the legend labels stacked ?,vertical,Vertical
+22,What is the title of the graph ?,Trade statistics of Arab World with developing economies within region,Trade statistics of Arab World with developing economies within region
+22,"Does ""Food and tobacco"" appear as one of the legend labels in the graph ?",No,No
+22,What is the label or title of the X-axis ?,Year,Year
+22,What is the label or title of the Y-axis ?,Trade with economies within region(%),Trade economies within region(%)
+23,How many different coloured dotlines are there ?,2,2
+23,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+23,What is the co2 emissions due to electricity and heat production in 2003 ?,4.05405405405405,10.000000000000001
+23,"Across all years, what is the maximum co2 emissions due to manufacturing industries ?",13.3333333333333,10.000000000000001
+23,"Across all years, what is the minimum co2 emissions due to manufacturing industries ?",6.02409638554217,1.0000000000000001
+23,In which year was the co2 emissions due to manufacturing industries maximum?,1992,2006
+23,In which year was the co2 emissions due to manufacturing industries minimum?,2005,1992
+23,What is the total co2 emissions due to electricity and heat production in the graph ?,26.567651014641072,17.19999999999999
+23,What is the difference between the co2 emissions due to electricity and heat production in 1992 and that in 2005 ?,-3.152610441767069,-0.0000000000000001
+23,What is the difference between the co2 emissions due to electricity and heat production in 2003 and the co2 emissions due to manufacturing industries in 2005?,-1.97004233148812,-1.099999999999999
+23,What is the average co2 emissions due to manufacturing industries per year?,8.510769692152175,1.000000000000001
+23,"In the year 1992, what is the difference between the co2 emissions due to electricity and heat production and co2 emissions due to manufacturing industries ?",-11.66666666666663,-1.099999999999999
+23,"In how many years, is the co2 emissions due to manufacturing industries greater than 2.4 %?",6,6
+23,What is the ratio of the co2 emissions due to manufacturing industries in 2003 to that in 2006?,1.364864864864865,0.9000000000000001
+23,Is the co2 emissions due to electricity and heat production in 1992 less than that in 1999 ?,Yes,No
+23,Is the difference between the co2 emissions due to electricity and heat production in 2004 and 2005 greater than the difference between the co2 emissions due to manufacturing industries in 2004 and 2005 ?,No,No
+23,What is the difference between the highest and the second highest co2 emissions due to manufacturing industries ?,3.873873873873838,0.00000000000000001
+23,What is the difference between the highest and the lowest co2 emissions due to electricity and heat production ?,4.2156862745098,1.099999999999999
+23,"In how many years, is the co2 emissions due to electricity and heat production greater than the average co2 emissions due to electricity and heat production taken over all years ?",4,2
+23,Is the sum of the co2 emissions due to manufacturing industries in 1992 and 2004 greater than the maximum co2 emissions due to electricity and heat production across all years ?,Yes,No
+23,Does the co2 emissions due to electricity and heat production monotonically increase over the years ?,No,No
+23,Is the co2 emissions due to electricity and heat production strictly greater than the co2 emissions due to manufacturing industries over the years ?,No,No
+23,Is the co2 emissions due to manufacturing industries strictly less than the co2 emissions due to electricity and heat production over the years ?,No,No
+23,How many dotlines are there ?,2,2
+23,How many years are there in the graph ?,6,6
+23,What is the difference between two consecutive major ticks on the Y-axis ?,2.0,2.0
+23,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+23,Does the graph contain any zero values ?,No,No
+23,Does the graph contain grids ?,Yes,Yes
+23,Where does the legend appear in the graph ?,bottom right,bottom right
+23,How many legend labels are there ?,2,2
+23,How are the legend labels stacked ?,vertical,Vertical
+23,What is the title of the graph ?,CO2 emissions from different sources in Congo (Republic),CO2 emissions from different sources in Congo (Republic)
+23,"Does ""Lowest 20% of population"" appear as one of the legend labels in the graph ?",No,No
+23,What is the label or title of the X-axis ?,Year,Year
+23,What is the label or title of the Y-axis ?,CO2 emissions (% of total fuel combustion),CO2 emissions (% of total fuel combustion)
+24,How many different coloured dotlines are there ?,2,2
+24,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+24,What is the merchandise exports in 1982 ?,4.02782619892785,5.000000000000001
+24,"Across all years, what is the maximum merchandise exports ?",5.43582211003917,5.300000000000001
+24,"Across all years, what is the minimum merchandise imports ?",4.722341629831742,2.0000000000000001
+24,In which year was the merchandise exports maximum?,1981,1983
+24,In which year was the merchandise imports minimum?,1983,1981
+24,What is the total merchandise imports in the graph ?,26.663055115498473,18.040000000000001
+24,What is the difference between the merchandise imports in 1982 and that in 1984 ?,-1.5075490528667101,-0.4000000000000001
+24,What is the difference between the merchandise exports in 1981 and the merchandise imports in 1984?,-0.91142181904629,1.999999999999999
+24,What is the average merchandise imports per year?,5.332611023099695,3.880000000000001
+24,"In the year 1984, what is the difference between the merchandise exports and merchandise imports ?",-4.02460953621065,0.0000000000000001
+24,"In how many years, is the merchandise exports greater than 3.2 %?",3,4
+24,What is the ratio of the merchandise imports in 1983 to that in 1984?,0.7439987627058411,0.9000000000000001
+24,Is the merchandise imports in 1981 less than that in 1985 ?,Yes,No
+24,Is the difference between the merchandise exports in 1983 and 1985 greater than the difference between the merchandise imports in 1983 and 1985 ?,Yes,No
+24,What is the difference between the highest and the second highest merchandise imports ?,0.5857539263778491,0.00000000000000001
+24,What is the difference between the highest and the lowest merchandise exports ?,3.11318771716436,1.099999999999999
+24,"In how many years, is the merchandise exports greater than the average merchandise exports taken over all years ?",2,1
+24,Is the sum of the merchandise exports in 1983 and 1985 greater than the maximum merchandise imports across all years ?,No,Yes
+24,Does the merchandise exports monotonically increase over the years ?,No,No
+24,Is the merchandise exports strictly greater than the merchandise imports over the years ?,No,No
+24,Is the merchandise imports strictly less than the merchandise exports over the years ?,No,No
+24,How many dotlines are there ?,2,2
+24,How many years are there in the graph ?,5,5
+24,What is the difference between two consecutive major ticks on the Y-axis ?,1.0,1.0
+24,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+24,Does the graph contain any zero values ?,No,No
+24,Does the graph contain grids ?,No,No
+24,Where does the legend appear in the graph ?,center right,Center right.
+24,How many legend labels are there ?,2,2
+24,How are the legend labels stacked ?,vertical,Vertical
+24,What is the title of the graph ?,Trade statistics of South Asia with developing economies in East Asia,Trade statistics of South Asia with developing economies in East Asia
+24,"Does ""From production"" appear as one of the legend labels in the graph ?",No,No
+24,What is the label or title of the X-axis ?,Year,Year
+24,What is the label or title of the Y-axis ?,Trade with East Asia and Pacific(%),Trade with East Asia and PACs(%)
+25,How many different coloured dotlines are there ?,2,2
+25,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+25,What is the transition rate among female students in 1977 ?,100.0,80.0
+25,"Across all years, what is the maximum transition rate among male students ?",88.89295,90.00000000000001
+25,"Across all years, what is the minimum transition rate among female students ?",76.04290999999998,80.0
+25,In which year was the transition rate among female students maximum?,1977,1977
+25,In which year was the transition rate among female students minimum?,1971,1972
+25,What is the total transition rate among female students in the graph ?,613.33222,339.06060606060605
+25,What is the difference between the transition rate among female students in 1972 and that in 1973 ?,-6.9440999999999775,-0.0399999999999999
+25,What is the difference between the transition rate among female students in 1975 and the transition rate among male students in 1974?,15.618390000000005,-10.099999999999999
+25,What is the average transition rate among male students per year?,77.34448857142857,89.06060606060606
+25,"In the year 1976, what is the difference between the transition rate among female students and transition rate among male students ?",14.894230000000022,-10.09999999999999
+25,"In how many years, is the transition rate among male students greater than 60 %?",7,6
+25,What is the ratio of the transition rate among female students in 1971 to that in 1975?,0.863735394496952,0.970717499999999
+25,Is the transition rate among female students in 1971 less than that in 1974 ?,Yes,No
+25,Is the difference between the transition rate among female students in 1971 and 1976 greater than the difference between the transition rate among male students in 1971 and 1976 ?,No,No
+25,What is the difference between the highest and the second highest transition rate among female students ?,5.47945,1.0000000000000001
+25,What is the difference between the highest and the lowest transition rate among male students ?,16.929570000000002,10.000000000000001
+25,"In how many years, is the transition rate among female students greater than the average transition rate among female students taken over all years ?",4,3
+25,Is the sum of the transition rate among female students in 1972 and 1975 greater than the maximum transition rate among male students across all years ?,Yes,No
+25,Does the transition rate among male students monotonically increase over the years ?,No,No
+25,Is the transition rate among male students strictly greater than the transition rate among female students over the years ?,No,No
+25,Is the transition rate among male students strictly less than the transition rate among female students over the years ?,Yes,No
+25,How many dotlines are there ?,2,2
+25,How many years are there in the graph ?,7,7
+25,What is the difference between two consecutive major ticks on the Y-axis ?,20.0,20.0
+25,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+25,Does the graph contain any zero values ?,No,No
+25,Does the graph contain grids ?,Yes,Yes
+25,Where does the legend appear in the graph ?,bottom right,Top right
+25,How many legend labels are there ?,2,2
+25,How are the legend labels stacked ?,vertical,Vertical
+25,What is the title of the graph ?,Primary to secondary general education transition rate among students of Cyprus,Primary to secondary general education transition rate among students of Cyprus
+25,"Does ""Crop"" appear as one of the legend labels in the graph ?",No,No
+25,What is the label or title of the X-axis ?,Year,Year
+25,What is the label or title of the Y-axis ?,Transition rate(%),Transition rate(%)
+26,How many different coloured dotlines are there ?,2,2
+26,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+26,What is the number of refugees by country of asylum in 1995 ?,17418028,15000000
+26,"Across all years, what is the maximum number of refugees by country of asylum ?",17418028,15000000
+26,"Across all years, what is the minimum number of refugees by country of origin ?",14552205,15000000
+26,In which year was the number of refugees by country of origin maximum?,1995,1995
+26,In which year was the number of refugees by country of origin minimum?,1998,1995
+26,What is the total number of refugees by country of origin in the graph ?,108965028,144000000
+26,What is the difference between the number of refugees by country of asylum in 1998 and that in 2000 ?,-899031,10000000
+26,What is the difference between the number of refugees by country of asylum in 2001 and the number of refugees by country of origin in 1999?,779464,14000000
+26,What is the average number of refugees by country of asylum per year?,15566432.57142857,15000000.0
+26,"In the year 1995, what is the difference between the number of refugees by country of asylum and number of refugees by country of origin ?",0,15000000
+26,"In how many years, is the number of refugees by country of origin greater than 12000000 ?",7,6
+26,What is the ratio of the number of refugees by country of asylum in 1999 to that in 2001?,0.9501726936306951,0.999999999999999
+26,Is the number of refugees by country of origin in 2000 less than that in 2001 ?,Yes,No
+26,Is the difference between the number of refugees by country of origin in 1995 and 2000 greater than the difference between the number of refugees by country of asylum in 1995 and 2000 ?,No,No
+26,What is the difference between the highest and the second highest number of refugees by country of origin ?,1316023,1000000000
+26,What is the difference between the highest and the lowest number of refugees by country of origin ?,2865823,10000000
+26,"In how many years, is the number of refugees by country of origin greater than the average number of refugees by country of origin taken over all years ?",3,2
+26,Is the sum of the number of refugees by country of asylum in 1997 and 1998 greater than the maximum number of refugees by country of origin across all years ?,Yes,No
+26,Does the number of refugees by country of origin monotonically increase over the years ?,No,No
+26,Is the number of refugees by country of asylum strictly greater than the number of refugees by country of origin over the years ?,No,No
+26,Is the number of refugees by country of asylum strictly less than the number of refugees by country of origin over the years ?,No,No
+26,How many dotlines are there ?,2,2
+26,How many years are there in the graph ?,7,7
+26,What is the difference between two consecutive major ticks on the Y-axis ?,5000000.0,5000000.0
+26,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+26,Does the graph contain any zero values ?,No,No
+26,Does the graph contain grids ?,No,No
+26,Where does the legend appear in the graph ?,center right,Center right.
+26,How many legend labels are there ?,2,2
+26,How are the legend labels stacked ?,vertical,Vertical
+26,What is the title of the graph ?,Refugee population in World,Refugee population in World
+26,"Does ""Formally registered"" appear as one of the legend labels in the graph ?",No,No
+26,What is the label or title of the X-axis ?,Year,Year
+26,What is the label or title of the Y-axis ?,Number of refugees,Number of refugees
+27,How many different coloured dotlines are there ?,2,2
+27,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+27,What is the amount of aid given by canada in 1995 ?,1820000,100000
+27,"Across all years, what is the maximum amount of aid given by canada ?",3240000,2000000
+27,"Across all years, what is the minimum amount of aid given by netherlands ?",500000,100000
+27,In which year was the amount of aid given by canada maximum?,1996,1997
+27,In which year was the amount of aid given by canada minimum?,1993,1992
+27,What is the total amount of aid given by canada in the graph ?,10490000,10000000
+27,What is the difference between the amount of aid given by canada in 1995 and that in 1996 ?,-1420000,-100000
+27,What is the difference between the amount of aid given by canada in 1997 and the amount of aid given by netherlands in 1995?,1540000,1000000
+27,What is the average amount of aid given by canada per year?,1748333.3333333333,1000000.0
+27,"In the year 1995, what is the difference between the amount of aid given by netherlands and amount of aid given by canada ?",-1040000,1000000
+27,"In how many years, is the amount of aid given by canada greater than 1600000 US$?",4,0
+27,What is the ratio of the amount of aid given by canada in 1996 to that in 1997?,1.396551724137931,0.90000000000000001
+27,Is the amount of aid given by netherlands in 1993 less than that in 1997 ?,No,No
+27,Is the difference between the amount of aid given by canada in 1992 and 1994 greater than the difference between the amount of aid given by netherlands in 1992 and 1994 ?,No,No
+27,What is the difference between the highest and the second highest amount of aid given by canada ?,920000,1000000
+27,What is the difference between the highest and the lowest amount of aid given by netherlands ?,1610000,100000
+27,"In how many years, is the amount of aid given by netherlands greater than the average amount of aid given by netherlands taken over all years ?",3,2
+27,Is the sum of the amount of aid given by canada in 1993 and 1996 greater than the maximum amount of aid given by netherlands across all years ?,Yes,No
+27,Does the amount of aid given by netherlands monotonically increase over the years ?,No,No
+27,Is the amount of aid given by netherlands strictly greater than the amount of aid given by canada over the years ?,No,No
+27,Is the amount of aid given by canada strictly less than the amount of aid given by netherlands over the years ?,No,No
+27,How many dotlines are there ?,2,2
+27,How many years are there in the graph ?,6,6
+27,What is the difference between two consecutive major ticks on the Y-axis ?,500000.0,500000.0
+27,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+27,Does the graph contain any zero values ?,No,No
+27,Does the graph contain grids ?,No,No
+27,Where does the legend appear in the graph ?,bottom right,Bottom right
+27,How many legend labels are there ?,2,2
+27,How are the legend labels stacked ?,vertical,Vertical
+27,What is the title of the graph ?,Net bilateral aid flow in Lebanon from different members of Development Assistance Committee,Net bilateral aid flow in Lebanon from different members of Development Assistance Committee
+27,"Does ""Exports of goods"" appear as one of the legend labels in the graph ?",No,No
+27,What is the label or title of the X-axis ?,Year,Year
+27,What is the label or title of the Y-axis ?,Aid flow (current US$),Aid flow (current US$)
+28,How many different coloured dotlines are there ?,2,2
+28,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+28,What is the balance of payments of transport services in 2007 ?,35.6879368494689,39.29999999999999
+28,"Across all years, what is the maximum balance of payments of travel services ?",39.4731962453326,39.00000000000001
+28,"Across all years, what is the minimum balance of payments of transport services ?",9.23115750172761,3.2000000000000001
+28,In which year was the balance of payments of travel services maximum?,2006,2007
+28,In which year was the balance of payments of transport services minimum?,2012,2006
+28,What is the total balance of payments of transport services in the graph ?,152.81216207593042,120.00000000000001
+28,What is the difference between the balance of payments of travel services in 2008 and that in 2009 ?,-0.399210235936003,-0.0000000000000001
+28,What is the difference between the balance of payments of travel services in 2007 and the balance of payments of transport services in 2008?,2.928108037915905,-10.09999999999999
+28,What is the average balance of payments of travel services per year?,35.71709426360049,3.999999999999999
+28,"In the year 2007, what is the difference between the balance of payments of transport services and balance of payments of travel services ?",-2.9070386317554053,-2.0000000000000001
+28,"In how many years, is the balance of payments of travel services greater than 2 %?",5,5
+28,What is the ratio of the balance of payments of transport services in 2008 to that in 2012?,3.863748120063312,0.999999999999999
+28,Is the balance of payments of transport services in 2008 less than that in 2009 ?,Yes,No
+28,Is the difference between the balance of payments of transport services in 2007 and 2009 greater than the difference between the balance of payments of travel services in 2007 and 2009 ?,No,No
+28,What is the difference between the highest and the second highest balance of payments of travel services ?,0.21844400257599902,0.0000000000000001
+28,What is the difference between the highest and the lowest balance of payments of transport services ?,27.35274623907349,1.0000000000000001
+28,"In how many years, is the balance of payments of travel services greater than the average balance of payments of travel services taken over all years ?",4,1
+28,Is the sum of the balance of payments of transport services in 2006 and 2012 greater than the maximum balance of payments of travel services across all years ?,Yes,No
+28,Does the balance of payments of travel services monotonically increase over the years ?,No,No
+28,Is the balance of payments of travel services strictly greater than the balance of payments of transport services over the years ?,Yes,No
+28,Is the balance of payments of transport services strictly less than the balance of payments of travel services over the years ?,Yes,No
+28,How many dotlines are there ?,2,2
+28,How many years are there in the graph ?,5,5
+28,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+28,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+28,Does the graph contain any zero values ?,No,No
+28,Does the graph contain grids ?,Yes,Yes
+28,Where does the legend appear in the graph ?,bottom left,Bottom left
+28,How many legend labels are there ?,2,2
+28,How are the legend labels stacked ?,horizontal,Horizontal
+28,What is the title of the graph ?,Balance of payments as percentage of commercial service imports in Brunei Darussalam,Balance of payments as percentage of commercial service imports in Brunei Darussalam
+28,"Does ""Female labor force"" appear as one of the legend labels in the graph ?",No,No
+28,What is the label or title of the X-axis ?,Year,Year
+28,What is the label or title of the Y-axis ?,Balance of Payment (as % of commercial service imports),Balance of payments (as % of commercial service imports)
+29,How many different coloured dotlines are there ?,2,2
+29,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+29,What is the merchandise exports in 2004 ?,19.2419642646376,39.00000000000001
+29,"Across all years, what is the maximum merchandise exports ?",24.83979299645161,42.20000000000001
+29,"Across all years, what is the minimum merchandise exports ?",19.2419642646376,20.000000000000001
+29,In which year was the merchandise imports maximum?,2005,2003
+29,In which year was the merchandise exports minimum?,2004,2003
+29,What is the total merchandise imports in the graph ?,205.46819067570658,170.00000000000001
+29,What is the difference between the merchandise imports in 2003 and that in 2007 ?,3.699511103974899,1.0000000000000001
+29,What is the difference between the merchandise exports in 2006 and the merchandise imports in 2005?,-26.937917241064596,27.00000000000001
+29,What is the average merchandise exports per year?,21.87278314230974,27.19999999999999
+29,"In the year 2007, what is the difference between the merchandise imports and merchandise exports ?",12.202201015812609,2.0000000000000001
+29,"In how many years, is the merchandise exports greater than 28 %?",0,4
+29,What is the ratio of the merchandise imports in 2006 to that in 2007?,1.134181690736032,0.970402222222222
+29,Is the merchandise exports in 2003 less than that in 2004 ?,No,No
+29,Is the difference between the merchandise imports in 2004 and 2005 greater than the difference between the merchandise exports in 2004 and 2005 ?,Yes,No
+29,What is the difference between the highest and the second highest merchandise imports ?,1.646236618460911,1.0000000000000001
+29,What is the difference between the highest and the lowest merchandise exports ?,5.597828731814012,1.9000000000000003
+29,"In how many years, is the merchandise imports greater than the average merchandise imports taken over all years ?",2,2
+29,Is the sum of the merchandise exports in 2003 and 2004 greater than the maximum merchandise imports across all years ?,No,Yes
+29,Does the merchandise exports monotonically increase over the years ?,No,No
+29,Is the merchandise exports strictly greater than the merchandise imports over the years ?,No,No
+29,Is the merchandise exports strictly less than the merchandise imports over the years ?,Yes,No
+29,How many dotlines are there ?,2,2
+29,How many years are there in the graph ?,5,5
+29,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+29,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+29,Does the graph contain any zero values ?,No,No
+29,Does the graph contain grids ?,No,No
+29,Where does the legend appear in the graph ?,center right,Center right
+29,How many legend labels are there ?,2,2
+29,How are the legend labels stacked ?,vertical,Vertical
+29,What is the title of the graph ?,Trade statistics of Mozambique with developing economies within region,Trade statistics of Mozambique with developing economies within region
+29,"Does ""Resident workers"" appear as one of the legend labels in the graph ?",No,No
+29,What is the label or title of the X-axis ?,Year,Year
+29,What is the label or title of the Y-axis ?,Trade with economies within region(%),Trade with economies within region(%)
+30,How many different coloured dotlines are there ?,2,2
+30,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+30,What is the amount spent on transport items of international tourists in 1998 ?,15000000,1200000
+30,"Across all years, what is the maximum amount spent on transport items of national tourists ?",1000000.0,12000000
+30,"Across all years, what is the minimum amount spent on transport items of international tourists ?",8000000,1000000
+30,In which year was the amount spent on transport items of national tourists maximum?,2001,2000
+30,In which year was the amount spent on transport items of national tourists minimum?,1998,1998
+30,What is the total amount spent on transport items of international tourists in the graph ?,49000000,14000000
+30,What is the difference between the amount spent on transport items of national tourists in 1999 and that in 2001 ?,-400000.0,-1000000
+30,What is the difference between the amount spent on transport items of international tourists in 1999 and the amount spent on transport items of national tourists in 2000?,7400000.0,10000000
+30,What is the average amount spent on transport items of national tourists per year?,650000.0,1000000.0
+30,"In the year 2001, what is the difference between the amount spent on transport items of national tourists and amount spent on transport items of international tourists ?",-16000000.0,-1000000
+30,"In how many years, is the amount spent on transport items of national tourists greater than 6000000 US$?",0,0
+30,What is the ratio of the amount spent on transport items of national tourists in 1998 to that in 2001?,0.4,0.999999999999999
+30,Is the amount spent on transport items of international tourists in 1998 less than that in 1999 ?,No,No
+30,Is the difference between the amount spent on transport items of international tourists in 1998 and 2001 greater than the difference between the amount spent on transport items of national tourists in 1998 and 2001 ?,No,Yes
+30,What is the difference between the highest and the second highest amount spent on transport items of national tourists ?,400000.0,1000000
+30,What is the difference between the highest and the lowest amount spent on transport items of international tourists ?,9000000,1000000
+30,"In how many years, is the amount spent on transport items of national tourists greater than the average amount spent on transport items of national tourists taken over all years ?",1,1
+30,Is the sum of the amount spent on transport items of national tourists in 2000 and 2001 greater than the maximum amount spent on transport items of international tourists across all years ?,No,Yes
+30,Does the amount spent on transport items of national tourists monotonically increase over the years ?,No,No
+30,Is the amount spent on transport items of international tourists strictly greater than the amount spent on transport items of national tourists over the years ?,Yes,No
+30,Is the amount spent on transport items of international tourists strictly less than the amount spent on transport items of national tourists over the years ?,No,No
+30,How many dotlines are there ?,2,2
+30,How many years are there in the graph ?,4,4
+30,What is the difference between two consecutive major ticks on the Y-axis ?,5000000.0,5000000.0
+30,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+30,Does the graph contain any zero values ?,No,No
+30,Does the graph contain grids ?,Yes,Yes
+30,Where does the legend appear in the graph ?,center right,Center right
+30,How many legend labels are there ?,2,2
+30,How are the legend labels stacked ?,vertical,Vertical
+30,What is the title of the graph ?,Amount spent on the passenger transport items in Congo (Republic),Amount spent on the passenger transport items in Congo (Republic)
+30,"Does ""Food and tobacco"" appear as one of the legend labels in the graph ?",No,No
+30,What is the label or title of the X-axis ?,Year,Year
+30,What is the label or title of the Y-axis ?,Amount (in US$),Amount (in US$)
+31,How many different coloured dotlines are there ?,2,2
+31,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+31,What is the employment to population ratio(age 15+) in 1991 ?,75.3000030517578,70.0
+31,"Across all years, what is the maximum employment to population ratio(age 15-24) ?",58.7999992370605,70.00000000000001
+31,"Across all years, what is the minimum employment to population ratio(age 15-24) ?",55.9000015258789,60.00000000000001
+31,In which year was the employment to population ratio(age 15-24) maximum?,1991,1991
+31,In which year was the employment to population ratio(age 15+) minimum?,1994,1991
+31,What is the total employment to population ratio(age 15-24) in the graph ?,229.10000228881842,230.00000000000001
+31,What is the difference between the employment to population ratio(age 15+) in 1991 and that in 1994 ?,1.300003051757798,0.0000000000000001
+31,What is the difference between the employment to population ratio(age 15+) in 1994 and the employment to population ratio(age 15-24) in 1991?,15.200000762939503,-1.000000000000001
+31,What is the average employment to population ratio(age 15+) per year?,74.75,64.00000000000001
+31,"In the year 1994, what is the difference between the employment to population ratio(age 15-24) and employment to population ratio(age 15+) ?",-18.0999984741211,-1.000000000000001
+31,"In how many years, is the employment to population ratio(age 15+) greater than 62 %?",4,4
+31,What is the ratio of the employment to population ratio(age 15-24) in 1991 to that in 1994?,1.051878311842962,1.000000000000001
+31,Is the employment to population ratio(age 15+) in 1991 less than that in 1994 ?,No,No
+31,Is the difference between the employment to population ratio(age 15-24) in 1993 and 1994 greater than the difference between the employment to population ratio(age 15+) in 1993 and 1994 ?,Yes,No
+31,What is the difference between the highest and the second highest employment to population ratio(age 15-24) ?,1.599998474120994,0.0000000000000001
+31,What is the difference between the highest and the lowest employment to population ratio(age 15-24) ?,2.899997711181598,0.0000000000000001
+31,"In how many years, is the employment to population ratio(age 15-24) greater than the average employment to population ratio(age 15-24) taken over all years ?",1,2
+31,Is the sum of the employment to population ratio(age 15-24) in 1992 and 1993 greater than the maximum employment to population ratio(age 15+) across all years ?,Yes,No
+31,Does the employment to population ratio(age 15+) monotonically increase over the years ?,No,No
+31,Is the employment to population ratio(age 15+) strictly greater than the employment to population ratio(age 15-24) over the years ?,Yes,No
+31,Is the employment to population ratio(age 15+) strictly less than the employment to population ratio(age 15-24) over the years ?,No,No
+31,How many dotlines are there ?,2,2
+31,How many years are there in the graph ?,4,4
+31,What is the difference between two consecutive major ticks on the Y-axis ?,10.0,10.0
+31,Are the values on the major ticks of Y-axis written in scientific E-notation ?,No,No
+31,Does the graph contain any zero values ?,No,No
+31,Does the graph contain grids ?,No,No
+31,Where does the legend appear in the graph ?,bottom right,Bottom right
+31,How many legend labels are there ?,2,2
+31,How are the legend labels stacked ?,vertical,Vertical
+31,What is the title of the graph ?,Employment to population ratio of the male population of Belize for different age-groups,Employment to population ratio of the male population of Belize for different age groups
+31,"Does ""RDB nonconcessional"" appear as one of the legend labels in the graph ?",No,No
+31,What is the label or title of the X-axis ?,Year,Year
+31,What is the label or title of the Y-axis ?,Employment to population ratio(%),Employment to population ratio(%)
+32,How many different coloured dotlines are there ?,2,2
+32,Is the number of dotlines equal to the number of legend labels ?,Yes,Yes
+32,What is the merchandise exports in 2000 ?,29.60205711706769,34.09099999999999
+32,"Across all years, what is the maximum merchandise exports ?",36.112439542152,34.30000000000001
+32,"Across all years, what is the minimum merchandise exports ?",29.60205711706769,24.30000000000001
+32,In which year was the merchandise exports maximum?,2004,2004
+32,In which year was the merchandise exports minimum?,2000,2000
+32,What is the total merchandise imports in the graph ?,212.2143692644717,140.3999999999999
+32,What is the difference between the merchandise exports in 2002 and that in 2004 ?,-3.643687174792205,0.0399999999999999
+32,What is the difference between the merchandise imports in 1999 and the merchandise exports in 2002?,0.6078551328443991,1.069999999999999
+32,What is the average merchandise exports per year?,32.19823532780172,31.040000000000015
+32,"In the year 1999, what is the difference between the merchandise exports and merchandise imports ?",-3.335045244490999,1.099999999999999
