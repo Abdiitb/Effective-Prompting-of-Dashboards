@@ -794,20 +794,6 @@ Monitor Weights & Biases:
 - **Weights & Biases**: https://wandb.ai
 - **PEFT (LoRA)**: https://huggingface.co/docs/peft
 
-### Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@misc{effective-prompting-dashboards,
-  title={Effective Prompting of Dashboards: Vision-Language Model Fine-tuning},
-  author={Abdifatah},
-  year={2025},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/Abdiitb/Effective-Prompting-of-Dashboards}}
-}
-```
-
 ---
 
 ## Support & Contact
