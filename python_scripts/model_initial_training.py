@@ -85,10 +85,11 @@ print("✓ Processor loaded successfully")
 # SYSTEM PROMPT DEFINITION
 # ============================================================================
 system_message = """
-You are a Vision-Language Model specialized in interpreting chart and plot images.
-Analyze the chart carefully and answer the given question concisely (usually a single word, number, or short phrase).
-Use both visual information (values, colors, labels) and simple reasoning (e.g., finding averages, differences, trends) based on the chart data.
-Do not rely on any external or prior knowledge — all answers must come from interpreting the chart itself.
+You are an assistant that solves numerical and plot-based questions.
+Perform calculations when needed, show clear step-by-step reasoning, and provide the final answer after a blank line in the format: ####<answer>.
+For multi-step problems, show all steps.
+For single-step problems, give the final answer with ####.
+Respect parentheses and operation precedence.
 """
 
 # ============================================================================
@@ -104,24 +105,43 @@ def format_data_train(sample):
     Returns:
         Dictionary with formatted 'text' and 'images' fields
     """
+    if sample["image"] is not None:
     # Construct multi-turn conversation with system, user, and assistant messages
-    messages = [
-        {
-            "role": "system",
-            "content": [{"type": "text", "text": system_message}],
-        },
-        {
-            "role": "user",
-            "content": [
-                {"type": "image"},
-                {"type": "text", "text": f"Question Template: {sample['template']}\n Plot Type: {sample['type']}\n Question: {sample['question_string']}"},
-            ],
-        },
-        {
-            "role": "assistant",
-            "content": [{"type": "text", "text": sample["answer"]}],
-        },
-    ]
+        messages = [
+            {
+                "role": "system",
+                "content": [{"type": "text", "text": system_message}],
+            },
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image"},
+                    {"type": "text", "text": f"{sample['question']}"},
+                ],
+            },
+            {
+                "role": "assistant",
+                "content": [{"type": "text", "text": sample["answer"]}],
+            },
+        ]
+
+    else:
+        messages = [
+            {
+                "role": "system",
+                "content": [{"type": "text", "text": system_message}],
+            },
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"{sample['question']}"},
+                ],
+            },
+            {
+                "role": "assistant",
+                "content": [{"type": "text", "text": sample["answer"]}],
+            },
+        ]
 
     # Apply chat template to convert messages to model-specific format
     text = processor.apply_chat_template(messages, tokenize=False)
@@ -186,12 +206,12 @@ class VLMCollator:
 
         # Mask prompt tokens so model only learns to predict assistant responses
         for i in range(len(labels)):
-            # Find newline tokens (198) to locate assistant response start
-            response_start = (batch["input_ids"][i] == 198).nonzero(as_tuple=True)[0]
+            # Find Assistant tokens (42) to locate assistant response start
+            response_start = (labels[i] == 42).nonzero(as_tuple=True)[0]
             if len(response_start) > 0:
                 # Mask all tokens before the assistant's response with -100
                 # -100 is ignored by PyTorch loss functions
-                labels[i, : response_start[-2]] = -100
+                labels[i, : response_start[-1] + 2] = -100
 
         batch["labels"] = labels
         return batch
@@ -243,6 +263,13 @@ peft_config = LoraConfig(
 # Apply LoRA adapters to model
 model = get_peft_model(model, peft_config)
 
+for name, param in model.named_parameters():
+    if 'lora' in name:
+        if 'text_model' in name:
+            param.requires_grad = True
+        else:
+            param.requires_grad = False
+
 # Display trainable parameters summary
 print("\n" + "=" * 60)
 model.print_trainable_parameters()
@@ -259,7 +286,7 @@ print("✓ LoRA adapters configured")
 print("\n[7/9] Initializing Weights & Biases...")
 wandb.init(
     project="IE643_SmolVLM_Finetuning", 
-    name="smolvlm-256M-run-with-masking-with-connector-link-lora8-1to1000"
+    name="smolvlm-256M-lang-head-finetuning-gsm8k"
 )
 print("✓ W&B initialized")
 
@@ -270,35 +297,35 @@ print("\n[8/9] Configuring training parameters...")
 
 training_args = SFTConfig(
     # Output directory for checkpoints
-    output_dir="/home/ie643_mindspring/model_weights/training-with-masking-with-connector-link-lora8-1to1000",
+    output_dir="/home/ie643_mindspring/model_weights/lang-head-finetuning-gsm8k",
     
     # Training steps (total batches to process)
     max_steps=125,
     
     # Batch size per GPU
-    per_device_train_batch_size=2,
+    per_device_train_batch_size=8,
     
-    # Accumulate gradients over multiple batches (effective batch size = 8 * 2 = 16)
-    gradient_accumulation_steps=4,
+    # Accumulate gradients over multiple batches (effective batch size = 8 * 8 = 64)
+    gradient_accumulation_steps=8,
     
     # Gradient checkpointing for memory efficiency
     gradient_checkpointing_kwargs={"use_reentrant": False},
     
-    # Learning rate warmup (5% of training)
-    warmup_ratio=0.05,
+    # Learning rate warmup (1% of training)
+    warmup_ratio=0.01,
     
     # Peak learning rate
-    learning_rate=5e-5,
+    learning_rate=5e-5, 
     
     # Weight decay for regularization
     weight_decay=0.01,
     
-    # Log metrics every 75 steps
-    logging_steps=5,
+    # Log metrics every 100 steps
+    logging_steps=100,
     
     # Checkpoint saving configuration
     save_strategy="steps",
-    save_steps=25,
+    save_steps=100,
     save_total_limit=1,  # Keep only the last checkpoint
     
     # Optimizer
@@ -328,10 +355,6 @@ training_args = SFTConfig(
     # Enable training and evaluation
     do_train=True,
     do_eval=False,
-    
-    # Evaluate every 75 steps
-    # eval_strategy="steps",
-    # eval_steps=75,
 )
 
 print("✓ Training configuration complete")
@@ -345,7 +368,6 @@ trainer = SFTTrainer(
     model=model,
     args=training_args,
     train_dataset=formatted_train_set,
-    # eval_dataset=formatted_val_set,
     processing_class=processor,
     data_collator=VLMCollator(processor=processor)
 )
