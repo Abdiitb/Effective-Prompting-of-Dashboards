@@ -50,7 +50,7 @@ print("=" * 60)
 # 3. HUGGING FACE AUTHENTICATION
 # ============================================================================ #
 print("\n[1/9] Logging into Hugging Face...")
-login("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")  # Replace with your actual token or use environment variable
+login("YOUR_HF_TOKEN")  # Replace with your actual token or use environment variable
 print("✓ Successfully logged into Hugging Face")
 
 # ============================================================================ #

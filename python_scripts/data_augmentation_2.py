@@ -129,7 +129,7 @@ print("STAGE 2: HUGGING FACE AUTHENTICATION")
 print("=" * 70)
 
 logger.info("Authenticating with Hugging Face Hub...")
-login("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")
+login("YOUR_HF_TOKEN")
 logger.info("✓ Successfully logged into Hugging Face Hub")
 
 print("✓ Successfully logged into Hugging Face")

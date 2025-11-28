@@ -40,7 +40,7 @@ if torch.cuda.is_available():
 
 # Login to Hugging Face Hub (ensure token is valid)
 print("\nLogging into Hugging Face Hub...")
-login("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")  # Replace with your actual token or use environment variable
+login("YOUR_HF_TOKEN")  # Replace with your actual token or use environment variable
 print("✓ Successfully logged into Hugging Face")
 print("=" * 60)
 

@@ -50,7 +50,7 @@ logger.info("=" * 60)
 # HUGGING FACE AUTHENTICATION
 # ============================================================================
 logger.info("[1/9] Logging into Hugging Face...")
-login("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")  # Replace with your actual token or use environment variable
+login("YOUR_HF_TOKEN")  # Replace with your actual token or use environment variable
 logger.info("✓ Successfully logged into Hugging Face")
 
 # ============================================================================

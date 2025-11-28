@@ -54,7 +54,7 @@ if torch.cuda.is_available():
 
 # Authenticate with Hugging Face Hub
 logger.info("Authenticating with Hugging Face Hub...")
-login("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")
+login("YOUR_HF_TOKEN")
 logger.info("✓ Successfully logged into Hugging Face")
 logger.info("=" * 60)
 
